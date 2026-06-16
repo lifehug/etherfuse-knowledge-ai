@@ -104,3 +104,48 @@ Chronological record of synthesis runs.
 - Pages produced (1): agora-ausd-is-the-underpriced-usd-leg-for-the-now-bigger-korea-launch
 - Notes: One high-confidence-of-novelty synthesis; folded the Noble/FX-pool-liquidity overlap in rather than duplicating existing FX-DEX/backend-liquidity findings.
 
+## [2026-06-16] Probe · agridex
+
+- Pages produced (1): agridex-signed-kyb-stalled-onboarding-is-recoverable-revenue
+- Notes: Single high-confidence-of-pattern finding; Agridex used as the canonical example of signed-KYB-but-stale-onboarding revenue leakage that two existing internal playbooks already address.
+
+## [2026-06-16] Probe · aifc
+
+- Pages produced (3): kazakhstan-is-etherfuses-ready-built-china-corridor-hub, aifc-spc-is-a-tax-deferred-institutional-wrapper-sellable-worldwide, aix-is-a-regulated-retail-listing-venue-for-stablebonds-in-central-asia
+- Notes: Focused on AIFC-neighborhood connections absent from existing findings: the China corridor convergence (AIX-Shanghai + Freedom-WeChat + AIFC CNY offshore), the AIFC SPC as a tax/credit-rating institutional wrapper, and AIX as an unworked retail listing venue.
+
+## [2026-06-16] Probe · aifc-afsa
+
+- Pages produced (3): halyk-is-a-white-label-issuer-not-just-a-custodian, kase-wants-etherfuse-as-a-launch-partner-on-solana-in-june, georgia-is-inbound-government-demand-with-a-ready-halyk-custody-path
+- Notes: Skipped China-capital-into-Stablebonds and Astana-Finance-Days angles as too thin/speculative; all three returned findings build on confirmed Kazakhstan partners already in the neighborhood and are distinct from existing AIFC/AIX/government-white-label findings.
+
+## [2026-06-16] Probe · airtm
+
+- Pages produced (2): bolivia-three-inbounds-missing-from-bond-roadmap, airtm-pipeline-number-understates-the-jv-by-an-order-of-magnitude
+- Notes: Bolivia finding is the high-confidence easy win; valuation finding is a prioritization signal parallel to the existing Shinhan synthesis but for a distinct Won/JV deal.
+
+## [2026-06-16] Probe · airwallex
+
+- Pages produced (1): airwallex-yield-is-distribution-for-an-already-proven-apac-float-product
+- Notes: One high-confidence-on-fit, medium-on-stage synthesis tying the thin Airwallex event page to the existing APAC float case study and SE-Asian roadmap; distinct from the existing corridor-treasury finding because it names Airwallex Yield as a specific ready distribution channel.
+
+## [2026-06-16] Probe · aix
+
+- Pages produced (2): aix-is-the-tradfi-capital-rail-kase-cannot-reach, mekkam-has-three-live-kz-distribution-channels-worked-in-silos
+- Notes: Both pages reframe the AIX/KASE relationship from 'pick one' to 'complementary channels reaching different capital'; avoided restating the existing China-corridor (payment-flow) and AIX-retail-listing findings by focusing on capital-pool differentiation and the multi-channel sequencing.
+
+## [2026-06-16] Probe · albo
+
+- Pages produced (1): mexican-neobank-savings-gap-is-the-alfred-pay-playbook-not-custody
+- Notes: Focal entity Albo is thin (1 source); the new value is connecting it to Plata's documented savings gap, the signed Alfred Pay structure/framing, and AVE-bill timing — a neobank-savings segment distinct from existing lender/brokerage findings.
+
+## [2026-06-16] Probe · alfred-pay
+
+- Pages produced (2): alfred-pay-fireblocks-cab-seat-is-a-volunteered-institutional-distribution-wedge, etherfuse-is-the-collateral-backend-for-a-fragmenting-consortium-of-partner-stablecoins
+- Notes: Both pages are net-new vs. existing Alfred Pay findings (neobank savings gap, MXNe rev-share template, Bermuda whitelabel). Fireblocks CAB is the highest-confidence, fastest action.
+
+## [2026-06-16] Probe · all-unity
+
+- Pages produced (3): kappa-markets-shared-mm-makes-eurau-stablebond-fx-pools-zero-onboarding, eurau-is-the-cheaper-eur-mint-currency-not-just-a-reserve-customer, all-unity-mxn-ambition-should-reuse-mxne-not-spin-up-a-competing-mint
+- Notes: Focused on All Unity-specific operational/economic links (shared Kappa MM, EURAU-as-mint-currency, MXNe duplication) not covered by the EUR-ramp, GBP-reserve, Bermuda, or consortium findings.
+
