@@ -149,3 +149,18 @@ Chronological record of synthesis runs.
 - Pages produced (3): kappa-markets-shared-mm-makes-eurau-stablebond-fx-pools-zero-onboarding, eurau-is-the-cheaper-eur-mint-currency-not-just-a-reserve-customer, all-unity-mxn-ambition-should-reuse-mxne-not-spin-up-a-competing-mint
 - Notes: Focused on All Unity-specific operational/economic links (shared Kappa MM, EURAU-as-mint-currency, MXNe duplication) not covered by the EUR-ramp, GBP-reserve, Bermuda, or consortium findings.
 
+## [2026-06-17] Probe · alloxyz
+
+- Pages produced (2): allo-is-the-vertically-integrated-wrapper-and-us-access-for-the-stablebond-index, one-allo-integration-makes-1500-fund-treasuries-yield-bearing
+- Notes: Reg-S/US-access claim is directionally strong but legally nuanced — flagged for counsel verification rather than asserted as settled.
+
+## [2026-06-17] Probe · amazon-mexico
+
+- Pages produced (1): amazon-mexico-seller-float-is-the-smb-case-study-reachable-without-corporate-bd
+- Notes: Deliberately differentiated from the existing Aeromexico float/loyalty finding by focusing on Amazon's two-sided (seller B2B + Amazon Pay consumer) float and the BD-bypass-via-seller-base route; one finding only — the rest of the neighborhood is already-synthesized generic material.
+
+## [2026-06-17] Probe · an-ki-abogados
+
+- Pages produced (1): ifpe-license-is-the-missing-rail-under-mexicos-virtual-account-products
+- Notes: Focal entity (AN-KI) is a trivial trademark notifier; the synthesis value sits in the adjacent BGBG/IFPE thread, which no existing finding touches.
+

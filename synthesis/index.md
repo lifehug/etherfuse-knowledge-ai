@@ -17,6 +17,8 @@
 - [Aix Is The Tradfi Capital Rail Kase Cannot Reach](aix-is-the-tradfi-capital-rail-kase-cannot-reach.md)
 - [Alfred Pay Fireblocks Cab Seat Is A Volunteered Institutional Distribution Wedge](alfred-pay-fireblocks-cab-seat-is-a-volunteered-institutional-distribution-wedge.md)
 - [All Unity Mxn Ambition Should Reuse Mxne Not Spin Up A Competing Mint](all-unity-mxn-ambition-should-reuse-mxne-not-spin-up-a-competing-mint.md)
+- [Allo Is The Vertically Integrated Wrapper And Us Access For The Stablebond Index](allo-is-the-vertically-integrated-wrapper-and-us-access-for-the-stablebond-index.md)
+- [Amazon Mexico Seller Float Is The Smb Case Study Reachable Without Corporate Bd](amazon-mexico-seller-float-is-the-smb-case-study-reachable-without-corporate-bd.md)
 - [Anchorage One Integration Unlocks Mexico For Four Stablecoins](anchorage-one-integration-unlocks-mexico-for-four-stablecoins.md)
 - [Argentina Stacked Demand Missing From Bond Roadmap](argentina-stacked-demand-missing-from-bond-roadmap.md)
 - [Bbva Convert Custodian Before Ave Bill](bbva-convert-custodian-before-ave-bill.md)
@@ -35,6 +37,7 @@
 - [Georgia Is Inbound Government Demand With A Ready Halyk Custody Path](georgia-is-inbound-government-demand-with-a-ready-halyk-custody-path.md)
 - [Government Tokenization Wave Is White Label Tam](government-tokenization-wave-is-white-label-tam.md)
 - [Halyk Is A White Label Issuer Not Just A Custodian](halyk-is-a-white-label-issuer-not-just-a-custodian.md)
+- [Ifpe License Is The Missing Rail Under Mexicos Virtual Account Products](ifpe-license-is-the-missing-rail-under-mexicos-virtual-account-products.md)
 - [Institutional Stablecoin Stack Is A Higher Acv Product Than Stablebonds](institutional-stablecoin-stack-is-a-higher-acv-product-than-stablebonds.md)
 - [Insured Custody Closes Institutional Deals](insured-custody-closes-institutional-deals.md)
 - [Kappa Markets Shared Mm Makes Eurau Stablebond Fx Pools Zero Onboarding](kappa-markets-shared-mm-makes-eurau-stablebond-fx-pools-zero-onboarding.md)
@@ -47,6 +50,7 @@
 - [Monad Foundations Real Value Is Deal Flow Not Grants](monad-foundations-real-value-is-deal-flow-not-grants.md)
 - [Non Usd Defi Collateral Category Etherfuse As Default Backend](non-usd-defi-collateral-category-etherfuse-as-default-backend.md)
 - [Offshore Inr Issuance Should Reuse Aifc Spc Not Shop For Custody](offshore-inr-issuance-should-reuse-aifc-spc-not-shop-for-custody.md)
+- [One Allo Integration Makes 1500 Fund Treasuries Yield Bearing](one-allo-integration-makes-1500-fund-treasuries-yield-bearing.md)
 - [P0 Is Backdoor Distribution To Untouched Drift Kamino Jupiter](p0-is-backdoor-distribution-to-untouched-drift-kamino-jupiter.md)
 - [Securities Reclassification Makes Stablebonds Listable On Tokenized Securities Dexs](securities-reclassification-makes-stablebonds-listable-on-tokenized-securities-dexs.md)
 - [Shinhan Am Payment Rails Dwarf Its Pipeline Valuation](shinhan-am-payment-rails-dwarf-its-pipeline-valuation.md)
@@ -60,5 +64,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-16*
+*Last synthesized: 2026-06-17*
 
