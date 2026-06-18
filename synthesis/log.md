@@ -164,3 +164,23 @@ Chronological record of synthesis runs.
 - Pages produced (1): ifpe-license-is-the-missing-rail-under-mexicos-virtual-account-products
 - Notes: Focal entity (AN-KI) is a trivial trademark notifier; the synthesis value sits in the adjacent BGBG/IFPE thread, which no existing finding touches.
 
+## [2026-06-18] Probe · anchorage
+
+- Pages produced (3): anchorage-non-us-bank-correspondent-rail-is-bigger-than-four-stablecoins, anchorage-pre-ipo-urgency-makes-a-near-done-integration-an-easy-close, anchorage-is-etherfuses-bridge-into-the-dtcc-collateral-network
+- Notes: Three new angles distinct from the existing four-stablecoin MXN-unlock finding: correspondent-bank distribution multiplier, pre-IPO timing lever on an already-built integration, and Anchorage-as-bridge into DTCC.
+
+## [2026-06-18] Probe · anchorage-digital
+
+- Pages produced (1): anchorage-backs-openeden-so-lead-the-pitch-with-non-usd-not-ustry
+- Notes: Anchorage is already heavily covered by 4 existing findings; only surfaced the one genuinely new connection (Anchorage-as-OpenEden-backer competitive tension), which none of the existing pages touch.
+
+## [2026-06-18] Probe · ant-international
+
+- Pages produced (2): ant-bettr-treasury-is-the-psp-float-playbook-across-alipay-plus-markets, ant-is-a-mexico-sourced-lead-making-it-a-latam-asia-corridor-play
+- Notes: Both syntheses are Discovery-stage (medium confidence); strongest is reframing Ant's stated Bettr Treasury priority onto the existing PSP-float case study + SE-Asia roadmap overlap.
+
+## [2026-06-18] Probe · anuarbek-kainazarov
+
+- Pages produced (1): kazakhstan-logistics-network-is-a-warm-channel-for-the-freight-corridor-product
+- Notes: Focal page is thin (1 source); the only genuinely new angle vs. the dense existing Kazakhstan finding set is the logistics/transportation hook tied to the shipped freight-corridor case study.
+
