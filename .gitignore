@@ -1,0 +1,6 @@
+.env
+user.md
+token.json
+__pycache__/
+*.pyc
+.DS_Store
