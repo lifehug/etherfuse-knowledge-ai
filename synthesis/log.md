@@ -184,3 +184,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): kazakhstan-logistics-network-is-a-warm-channel-for-the-freight-corridor-product
 - Notes: Focal page is thin (1 source); the only genuinely new angle vs. the dense existing Kazakhstan finding set is the logistics/transportation hook tied to the shipped freight-corridor case study.
 
+## [2026-06-19] Probe · aplazo
+
+- Pages produced (2): aplazo-handoff-to-bando-sits-on-a-broken-onboarding-rail, bbva-spark-is-the-shared-warm-intro-into-aplazo
+- Notes: Two new syntheses on the Aplazo neighborhood: a channel-risk flag (Bando onboarding block) and a BBVA-shared-financier intro/funding path. Did not restate the existing Aeroméxico ticket-float finding.
+
+## [2026-06-19] Probe · aptos
+
+- Pages produced (1): aptos-run-the-monad-playbook-on-a-mis-staged-relationship
+- Notes: Held back a Varmeta→Vietnam (VND Q4 2026 roadmap) synthesis because no source in this slice confirms Varmeta's Vietnam nexus; folded Varmeta in only as a cited warm inbound.
+
+## [2026-06-19] Probe · aqex
+
+- Pages produced (1): aqex-negative-fee-model-is-a-stablebond-yield-venue-not-a-waste-of-time
+- Notes: Single high-conviction reframe of a deprioritized lead; financial-model + Swiss-DLT + Fireblocks angles are not in existing findings (which cover FX pools via Kappa/AUSD/AirTM, not an exchange whose economics depend on Stablebond yield).
+

@@ -26,8 +26,12 @@
 - [Anchorage Pre Ipo Urgency Makes A Near Done Integration An Easy Close](anchorage-pre-ipo-urgency-makes-a-near-done-integration-an-easy-close.md)
 - [Ant Bettr Treasury Is The Psp Float Playbook Across Alipay Plus Markets](ant-bettr-treasury-is-the-psp-float-playbook-across-alipay-plus-markets.md)
 - [Ant Is A Mexico Sourced Lead Making It A Latam Asia Corridor Play](ant-is-a-mexico-sourced-lead-making-it-a-latam-asia-corridor-play.md)
+- [Aplazo Handoff To Bando Sits On A Broken Onboarding Rail](aplazo-handoff-to-bando-sits-on-a-broken-onboarding-rail.md)
+- [Aptos Run The Monad Playbook On A Mis Staged Relationship](aptos-run-the-monad-playbook-on-a-mis-staged-relationship.md)
+- [Aqex Negative Fee Model Is A Stablebond Yield Venue Not A Waste Of Time](aqex-negative-fee-model-is-a-stablebond-yield-venue-not-a-waste-of-time.md)
 - [Argentina Stacked Demand Missing From Bond Roadmap](argentina-stacked-demand-missing-from-bond-roadmap.md)
 - [Bbva Convert Custodian Before Ave Bill](bbva-convert-custodian-before-ave-bill.md)
+- [Bbva Spark Is The Shared Warm Intro Into Aplazo](bbva-spark-is-the-shared-warm-intro-into-aplazo.md)
 - [Bermuda Is Default Whitelabel Stablecoin Issuance Hub](bermuda-is-default-whitelabel-stablecoin-issuance-hub.md)
 - [Bolivia Three Inbounds Missing From Bond Roadmap](bolivia-three-inbounds-missing-from-bond-roadmap.md)
 - [Cetes Custodians Are Untapped Retail Distribution For The 2Pct Problem](cetes-custodians-are-untapped-retail-distribution-for-the-2pct-problem.md)
@@ -71,5 +75,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-18*
+*Last synthesized: 2026-06-19*
 
