@@ -2,6 +2,7 @@
 
 > Auto-maintained by `scripts/synthesize.py` (neighborhood probes). Reviewed by humans; may graduate into structured sections.
 
+- [0Xyz Is P0 The Stalled Grant Funded Collateral Deal The Wiki Cant See](0xyz-is-p0-the-stalled-grant-funded-collateral-deal-the-wiki-cant-see.md)
 - [1Money Hsbc Virtual Accounts Complete Us Market Unlock](1money-hsbc-virtual-accounts-complete-us-market-unlock.md)
 - [3Iq Is The Fund Wrapper For The Stablebond Index Nic Already Requested](3iq-is-the-fund-wrapper-for-the-stablebond-index-nic-already-requested.md)
 - [Abound Is Ready Distribution For The Planned Indtb Stablebond](abound-is-ready-distribution-for-the-planned-indtb-stablebond.md)
@@ -34,14 +35,18 @@
 - [Bbva Spark Is The Shared Warm Intro Into Aplazo](bbva-spark-is-the-shared-warm-intro-into-aplazo.md)
 - [Bermuda Is Default Whitelabel Stablecoin Issuance Hub](bermuda-is-default-whitelabel-stablecoin-issuance-hub.md)
 - [Bolivia Three Inbounds Missing From Bond Roadmap](bolivia-three-inbounds-missing-from-bond-roadmap.md)
+- [Brogan Law Is Doubling As Etherfuses Warm Intro Engine](brogan-law-is-doubling-as-etherfuses-warm-intro-engine.md)
 - [Cetes Custodians Are Untapped Retail Distribution For The 2Pct Problem](cetes-custodians-are-untapped-retail-distribution-for-the-2pct-problem.md)
+- [Circle Mint Plus Tether Mint Provisioning Is An Unnamed Productline](circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline.md)
 - [Coinbase Eur Gbp Rails Close The Eurob Gilts Fiat Ramp Gap](coinbase-eur-gbp-rails-close-the-eurob-gilts-fiat-ramp-gap.md)
 - [Colombia Is An Unbuilt Market With Stacked Partner Demand](colombia-is-an-unbuilt-market-with-stacked-partner-demand.md)
 - [Corridor Treasury Product Decoupled From Bond Roadmap](corridor-treasury-product-decoupled-from-bond-roadmap.md)
 - [Defi Composability Vs Insurability Tension](defi-composability-vs-insurability-tension.md)
 - [Etherfuse Backend Liquidity Stablecoin Closes The Defi Gap](etherfuse-backend-liquidity-stablecoin-closes-the-defi-gap.md)
+- [Etherfuse Is Sitting On 3M Of Foundation Grant Allocation As An Untapped Conversion Engine](etherfuse-is-sitting-on-3m-of-foundation-grant-allocation-as-an-untapped-conversion-engine.md)
 - [Etherfuse Is The Collateral Backend For A Fragmenting Consortium Of Partner Stablecoins](etherfuse-is-the-collateral-backend-for-a-fragmenting-consortium-of-partner-stablecoins.md)
 - [Eurau Is The Cheaper Eur Mint Currency Not Just A Reserve Customer](eurau-is-the-cheaper-eur-mint-currency-not-just-a-reserve-customer.md)
+- [Fital Omnibus Is One Integration That Activates The Entire Unbuilt Latam Roadmap](fital-omnibus-is-one-integration-that-activates-the-entire-unbuilt-latam-roadmap.md)
 - [Four Cetes Custodians Rebut The Concentration Risk Objection](four-cetes-custodians-rebut-the-concentration-risk-objection.md)
 - [Gbp Stablecoin Reserve Demand Sell Gilts Dont Cross Promote](gbp-stablecoin-reserve-demand-sell-gilts-dont-cross-promote.md)
 - [Georgia Is Inbound Government Demand With A Ready Halyk Custody Path](georgia-is-inbound-government-demand-with-a-ready-halyk-custody-path.md)
@@ -65,6 +70,7 @@
 - [P0 Is Backdoor Distribution To Untouched Drift Kamino Jupiter](p0-is-backdoor-distribution-to-untouched-drift-kamino-jupiter.md)
 - [Securities Reclassification Makes Stablebonds Listable On Tokenized Securities Dexs](securities-reclassification-makes-stablebonds-listable-on-tokenized-securities-dexs.md)
 - [Shinhan Am Payment Rails Dwarf Its Pipeline Valuation](shinhan-am-payment-rails-dwarf-its-pipeline-valuation.md)
+- [Shinhan Asset Management Is A Second Larger Shinhan The Pipeline Never Booked](shinhan-asset-management-is-a-second-larger-shinhan-the-pipeline-never-booked.md)
 - [Shinhan Sol Etf K Buidl First Offshore](shinhan-sol-etf-k-buidl-first-offshore.md)
 - [Solana Monad Grants Dont Convert Stellar Does](solana-monad-grants-dont-convert-stellar-does.md)
 - [Stablebonds Are The Yield Engine For Issuers Banned From Paying Yield](stablebonds-are-the-yield-engine-for-issuers-banned-from-paying-yield.md)
@@ -75,5 +81,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-19*
+*Last synthesized: 2026-06-20*
 

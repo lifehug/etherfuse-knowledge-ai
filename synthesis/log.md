@@ -199,3 +199,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): aqex-negative-fee-model-is-a-stablebond-yield-venue-not-a-waste-of-time
 - Notes: Single high-conviction reframe of a deprioritized lead; financial-model + Swiss-DLT + Fireblocks angles are not in existing findings (which cover FX pools via Kappa/AUSD/AirTM, not an exchange whose economics depend on Stablebond yield).
 
+## [2026-06-20] Probe · 0-xyz
+
+- Pages produced (1): 0xyz-is-p0-the-stalled-grant-funded-collateral-deal-the-wiki-cant-see
+- Notes: Single high-confidence finding: cross-links the info-starved 0.xyz wiki page to the SALES-380 record that identifies it as P0, ties its named blocker to the in-flight backend-liquidity fix, and surfaces an unclaimed $70K Solana grant.
+
+## [2026-06-20] Probe · 0-xyz-p0
+
+- Pages produced (3): fital-omnibus-is-one-integration-that-activates-the-entire-unbuilt-latam-roadmap, etherfuse-is-sitting-on-3m-of-foundation-grant-allocation-as-an-untapped-conversion-engine, brogan-law-is-doubling-as-etherfuses-warm-intro-engine
+- Notes: Focused on net-new connections not in existing findings: Fital as a single-integration LatAm distribution multiplier, the ~$3M cross-foundation grant pool as a systematizable conversion engine, and Brogan Law as an under-used referral channel.
+
+## [2026-06-20] Probe · 0xproject
+
+- Pages produced (2): shinhan-asset-management-is-a-second-larger-shinhan-the-pipeline-never-booked, circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline
+- Notes: Focal entity (0xproject) is a confirmed dead lead; synthesis drawn from the surrounding institutional docs in the neighborhood. Both findings avoid existing Korea/AirTM/IBT pages by isolating the uncounted Shinhan AM entity and the cross-deal Circle/Tether mint-provisioning pattern.
+
