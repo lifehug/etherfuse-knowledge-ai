@@ -214,3 +214,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): shinhan-asset-management-is-a-second-larger-shinhan-the-pipeline-never-booked, circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline
 - Notes: Focal entity (0xproject) is a confirmed dead lead; synthesis drawn from the surrounding institutional docs in the neighborhood. Both findings avoid existing Korea/AirTM/IBT pages by isolating the uncounted Shinhan AM entity and the cross-deal Circle/Tether mint-provisioning pattern.
 
+## [2026-06-21] Probe · 0xyz
+
+- Pages produced (1): p0-is-the-one-integration-that-captures-the-untouched-drift-jupiter-kamino-collateral-deals
+- Notes: Focused on the one genuinely new, high-leverage link; skipped CHF-DeFi and the Foundation-funds-partner-integration angles as too thin (single data point) or adjacent to existing grant findings.
+
+## [2026-06-21] Probe · 0xyz-p0
+
+- Pages produced (2): solana-non-usd-collateral-cluster-is-one-productized-deal-not-four, chf-stablebond-has-named-demand-a-swiss-license-and-a-zug-venue-already-in-place
+- Notes: Skipped the core 0.xyz/backend-liquidity-stablecoin thesis (already covered). Two new angles: the under-recognized Solana DeFi collateral cluster with a de-facto standard fee schedule, and latent CHF demand sitting on existing Swiss infrastructure.
+
+## [2026-06-21] Probe · 1money
+
+- Pages produced (1): brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro
+- Notes: One high-confidence-of-impact finding surfacing an unbuilt BRL sovereign-coin product line against stacked partner demand; deliberately skipped weaker HSBC→GILTS and 34-MTL angles as too speculative.
+

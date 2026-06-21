@@ -35,8 +35,10 @@
 - [Bbva Spark Is The Shared Warm Intro Into Aplazo](bbva-spark-is-the-shared-warm-intro-into-aplazo.md)
 - [Bermuda Is Default Whitelabel Stablecoin Issuance Hub](bermuda-is-default-whitelabel-stablecoin-issuance-hub.md)
 - [Bolivia Three Inbounds Missing From Bond Roadmap](bolivia-three-inbounds-missing-from-bond-roadmap.md)
+- [Brle Sovereign Coin Is Named Demand Clone The Mxne Model On Tesouro](brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro.md)
 - [Brogan Law Is Doubling As Etherfuses Warm Intro Engine](brogan-law-is-doubling-as-etherfuses-warm-intro-engine.md)
 - [Cetes Custodians Are Untapped Retail Distribution For The 2Pct Problem](cetes-custodians-are-untapped-retail-distribution-for-the-2pct-problem.md)
+- [Chf Stablebond Has Named Demand A Swiss License And A Zug Venue Already In Place](chf-stablebond-has-named-demand-a-swiss-license-and-a-zug-venue-already-in-place.md)
 - [Circle Mint Plus Tether Mint Provisioning Is An Unnamed Productline](circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline.md)
 - [Coinbase Eur Gbp Rails Close The Eurob Gilts Fiat Ramp Gap](coinbase-eur-gbp-rails-close-the-eurob-gilts-fiat-ramp-gap.md)
 - [Colombia Is An Unbuilt Market With Stacked Partner Demand](colombia-is-an-unbuilt-market-with-stacked-partner-demand.md)
@@ -68,11 +70,13 @@
 - [Offshore Inr Issuance Should Reuse Aifc Spc Not Shop For Custody](offshore-inr-issuance-should-reuse-aifc-spc-not-shop-for-custody.md)
 - [One Allo Integration Makes 1500 Fund Treasuries Yield Bearing](one-allo-integration-makes-1500-fund-treasuries-yield-bearing.md)
 - [P0 Is Backdoor Distribution To Untouched Drift Kamino Jupiter](p0-is-backdoor-distribution-to-untouched-drift-kamino-jupiter.md)
+- [P0 Is The One Integration That Captures The Untouched Drift Jupiter Kamino Collateral Deals](p0-is-the-one-integration-that-captures-the-untouched-drift-jupiter-kamino-collateral-deals.md)
 - [Securities Reclassification Makes Stablebonds Listable On Tokenized Securities Dexs](securities-reclassification-makes-stablebonds-listable-on-tokenized-securities-dexs.md)
 - [Shinhan Am Payment Rails Dwarf Its Pipeline Valuation](shinhan-am-payment-rails-dwarf-its-pipeline-valuation.md)
 - [Shinhan Asset Management Is A Second Larger Shinhan The Pipeline Never Booked](shinhan-asset-management-is-a-second-larger-shinhan-the-pipeline-never-booked.md)
 - [Shinhan Sol Etf K Buidl First Offshore](shinhan-sol-etf-k-buidl-first-offshore.md)
 - [Solana Monad Grants Dont Convert Stellar Does](solana-monad-grants-dont-convert-stellar-does.md)
+- [Solana Non Usd Collateral Cluster Is One Productized Deal Not Four](solana-non-usd-collateral-cluster-is-one-productized-deal-not-four.md)
 - [Stablebonds Are The Yield Engine For Issuers Banned From Paying Yield](stablebonds-are-the-yield-engine-for-issuers-banned-from-paying-yield.md)
 - [Stablecoin Frontiers Cohort Is A Non Usd Issuer Reserve Pipeline](stablecoin-frontiers-cohort-is-a-non-usd-issuer-reserve-pipeline.md)
 - [Tala Mxne Revshare Is The Ready Template For Addi](tala-mxne-revshare-is-the-ready-template-for-addi.md)
@@ -81,5 +85,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-20*
+*Last synthesized: 2026-06-21*
 
