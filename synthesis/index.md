@@ -5,6 +5,8 @@
 - [0Xyz Is P0 The Stalled Grant Funded Collateral Deal The Wiki Cant See](0xyz-is-p0-the-stalled-grant-funded-collateral-deal-the-wiki-cant-see.md)
 - [1Money Hsbc Virtual Accounts Complete Us Market Unlock](1money-hsbc-virtual-accounts-complete-us-market-unlock.md)
 - [3Iq Is The Fund Wrapper For The Stablebond Index Nic Already Requested](3iq-is-the-fund-wrapper-for-the-stablebond-index-nic-already-requested.md)
+- [Aaro Is Lp Capital For The Stablebond Index Fund Not Another Wrapper](aaro-is-lp-capital-for-the-stablebond-index-fund-not-another-wrapper.md)
+- [Abound Inr Offshore Issuance Should Ride Etherfuses Bermuda License Not A New Vehicle](abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle.md)
 - [Abound Is Ready Distribution For The Planned Indtb Stablebond](abound-is-ready-distribution-for-the-planned-indtb-stablebond.md)
 - [Aegis Needs The Buidl Reserve Leg Stablebonds Supply](aegis-needs-the-buidl-reserve-leg-stablebonds-supply.md)
 - [Aeromexico Ticket Float And Loyalty Are Yield Products Not Custody Pitches](aeromexico-ticket-float-and-loyalty-are-yield-products-not-custody-pitches.md)
@@ -42,6 +44,7 @@
 - [Circle Mint Plus Tether Mint Provisioning Is An Unnamed Productline](circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline.md)
 - [Coinbase Eur Gbp Rails Close The Eurob Gilts Fiat Ramp Gap](coinbase-eur-gbp-rails-close-the-eurob-gilts-fiat-ramp-gap.md)
 - [Colombia Is An Unbuilt Market With Stacked Partner Demand](colombia-is-an-unbuilt-market-with-stacked-partner-demand.md)
+- [Compass Labs Is The Partner Onboarding Nic Into Etherfuse](compass-labs-is-the-partner-onboarding-nic-into-etherfuse.md)
 - [Corridor Treasury Product Decoupled From Bond Roadmap](corridor-treasury-product-decoupled-from-bond-roadmap.md)
 - [Defi Composability Vs Insurability Tension](defi-composability-vs-insurability-tension.md)
 - [Etherfuse Backend Liquidity Stablecoin Closes The Defi Gap](etherfuse-backend-liquidity-stablecoin-closes-the-defi-gap.md)
@@ -65,7 +68,10 @@
 - [Market Close Price Gap Is The Shared Blocker For Lending Integrations](market-close-price-gap-is-the-shared-blocker-for-lending-integrations.md)
 - [Mekkam Has Three Live Kz Distribution Channels Worked In Silos](mekkam-has-three-live-kz-distribution-channels-worked-in-silos.md)
 - [Mexican Neobank Savings Gap Is The Alfred Pay Playbook Not Custody](mexican-neobank-savings-gap-is-the-alfred-pay-playbook-not-custody.md)
+- [Micar Bans Yield On Stablecoins Making Stablebonds The Only Legal Yield Settlement Asset For 21X](micar-bans-yield-on-stablecoins-making-stablebonds-the-only-legal-yield-settlement-asset-for-21x.md)
+- [Monad Foundation Is Quietly Sourcing Etherfuses Emerging Market Deals](monad-foundation-is-quietly-sourcing-etherfuses-emerging-market-deals.md)
 - [Monad Foundations Real Value Is Deal Flow Not Grants](monad-foundations-real-value-is-deal-flow-not-grants.md)
+- [Moneygram Spans Etherfuses Two Deepest Moats Mexico And Kazakhstan](moneygram-spans-etherfuses-two-deepest-moats-mexico-and-kazakhstan.md)
 - [Non Usd Defi Collateral Category Etherfuse As Default Backend](non-usd-defi-collateral-category-etherfuse-as-default-backend.md)
 - [Offshore Inr Issuance Should Reuse Aifc Spc Not Shop For Custody](offshore-inr-issuance-should-reuse-aifc-spc-not-shop-for-custody.md)
 - [One Allo Integration Makes 1500 Fund Treasuries Yield Bearing](one-allo-integration-makes-1500-fund-treasuries-yield-bearing.md)
@@ -85,5 +91,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-21*
+*Last synthesized: 2026-06-22*
 

@@ -229,3 +229,23 @@ Chronological record of synthesis runs.
 - Pages produced (1): brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro
 - Notes: One high-confidence-of-impact finding surfacing an unbuilt BRL sovereign-coin product line against stacked partner demand; deliberately skipped weaker HSBC→GILTS and 34-MTL angles as too speculative.
 
+## [2026-06-22] Probe · 21x
+
+- Pages produced (1): micar-bans-yield-on-stablecoins-making-stablebonds-the-only-legal-yield-settlement-asset-for-21x
+- Notes: One high-confidence-thesis finding; the MiCAR interest-ban mechanism is medium confidence pending EU counsel sign-off, but the securities classification it depends on is corroborated.
+
+## [2026-06-22] Probe · 3iq
+
+- Pages produced (2): compass-labs-is-the-partner-onboarding-nic-into-etherfuse, moneygram-spans-etherfuses-two-deepest-moats-mexico-and-kazakhstan
+- Notes: Focused on the live Kazakhstan-institutional-capital cluster around the 3iQ/NIC node; Compass Labs (onboarding NIC, KYB starting) is the highest-impact new link. Did not restate the existing 3iQ-as-fund-wrapper finding.
+
+## [2026-06-22] Probe · aaro-capital
+
+- Pages produced (1): aaro-is-lp-capital-for-the-stablebond-index-fund-not-another-wrapper
+- Notes: One synthesis; the rest of Aaro's institutional-wrapper angle is already covered by the 3iQ/Allo findings, so I avoided restating it.
+
+## [2026-06-22] Probe · abound
+
+- Pages produced (2): abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle, monad-foundation-is-quietly-sourcing-etherfuses-emerging-market-deals
+- Notes: Focused on two new angles not in existing findings: routing Abound's INR issuance through the in-flight Bermuda license, and treating Monad/Raj Parekh as a deal-sourcing channel. Skipped Abound's core distribution/off-ramp thesis (already covered).
+
