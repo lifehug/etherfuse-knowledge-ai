@@ -249,3 +249,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle, monad-foundation-is-quietly-sourcing-etherfuses-emerging-market-deals
 - Notes: Focused on two new angles not in existing findings: routing Abound's INR issuance through the in-flight Bermuda license, and treating Monad/Raj Parekh as a deal-sourcing channel. Skipped Abound's core distribution/off-ramp thesis (already covered).
 
+## [2026-06-25] Probe · abound-times-of-india
+
+- Pages produced (3): bbva-foreign-isin-registration-is-the-offshore-backing-for-abounds-inr-product, raj-parekh-monad-is-a-bd-intro-engine-not-just-a-chain-grant, circle-is-the-shared-stakeholder-that-de-risks-the-abound-india-usdc-corridor
+- Notes: Avoided restating the two existing Abound findings (Bermuda vehicle, INDTB distribution); these cover the asset-backing/custody layer, the Monad intro channel, and the Circle shared-incentive angle instead.
+
+## [2026-06-25] Probe · abound-times-of-india-inr-stablecoin
+
+- Pages produced (2): abound-off-ramp-float-is-an-immediate-ustry-customer-before-indtb-ships, times-of-india-is-either-the-biggest-india-distribution-channel-or-a-phantom-partner
+- Notes: Avoided restating the four existing Abound findings (Bermuda offshore issuance, INDTB distribution, BBVA foreign-ISIN backing, Circle shared-stakeholder); these two cover the off-ramp float-yield angle and the unverified Times of India distribution leg.
+
+## [2026-06-25] Probe · actinver
+
+- Pages produced (2): cetes-custody-dd-copy-drops-a-custodian-and-asserts-unverified-quality, repo-mechanism-answers-airtms-deal-killing-fast-cycling-objection
+- Notes: Focal=Actinver; retail-distribution angle already covered by existing 'cetes-custodians-are-untapped-retail-distribution' finding, so focused on (1) DD-copy custody inconsistency and (2) repo-mechanism deal unblock surfaced in the AirTM transcript.
+

@@ -8,6 +8,7 @@
 - [Aaro Is Lp Capital For The Stablebond Index Fund Not Another Wrapper](aaro-is-lp-capital-for-the-stablebond-index-fund-not-another-wrapper.md)
 - [Abound Inr Offshore Issuance Should Ride Etherfuses Bermuda License Not A New Vehicle](abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle.md)
 - [Abound Is Ready Distribution For The Planned Indtb Stablebond](abound-is-ready-distribution-for-the-planned-indtb-stablebond.md)
+- [Abound Off Ramp Float Is An Immediate Ustry Customer Before Indtb Ships](abound-off-ramp-float-is-an-immediate-ustry-customer-before-indtb-ships.md)
 - [Aegis Needs The Buidl Reserve Leg Stablebonds Supply](aegis-needs-the-buidl-reserve-leg-stablebonds-supply.md)
 - [Aeromexico Ticket Float And Loyalty Are Yield Products Not Custody Pitches](aeromexico-ticket-float-and-loyalty-are-yield-products-not-custody-pitches.md)
 - [Agora Ausd Is The Underpriced Usd Leg For The Now Bigger Korea Launch](agora-ausd-is-the-underpriced-usd-leg-for-the-now-bigger-korea-launch.md)
@@ -34,13 +35,16 @@
 - [Aqex Negative Fee Model Is A Stablebond Yield Venue Not A Waste Of Time](aqex-negative-fee-model-is-a-stablebond-yield-venue-not-a-waste-of-time.md)
 - [Argentina Stacked Demand Missing From Bond Roadmap](argentina-stacked-demand-missing-from-bond-roadmap.md)
 - [Bbva Convert Custodian Before Ave Bill](bbva-convert-custodian-before-ave-bill.md)
+- [Bbva Foreign Isin Registration Is The Offshore Backing For Abounds Inr Product](bbva-foreign-isin-registration-is-the-offshore-backing-for-abounds-inr-product.md)
 - [Bbva Spark Is The Shared Warm Intro Into Aplazo](bbva-spark-is-the-shared-warm-intro-into-aplazo.md)
 - [Bermuda Is Default Whitelabel Stablecoin Issuance Hub](bermuda-is-default-whitelabel-stablecoin-issuance-hub.md)
 - [Bolivia Three Inbounds Missing From Bond Roadmap](bolivia-three-inbounds-missing-from-bond-roadmap.md)
 - [Brle Sovereign Coin Is Named Demand Clone The Mxne Model On Tesouro](brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro.md)
 - [Brogan Law Is Doubling As Etherfuses Warm Intro Engine](brogan-law-is-doubling-as-etherfuses-warm-intro-engine.md)
 - [Cetes Custodians Are Untapped Retail Distribution For The 2Pct Problem](cetes-custodians-are-untapped-retail-distribution-for-the-2pct-problem.md)
+- [Cetes Custody Dd Copy Drops A Custodian And Asserts Unverified Quality](cetes-custody-dd-copy-drops-a-custodian-and-asserts-unverified-quality.md)
 - [Chf Stablebond Has Named Demand A Swiss License And A Zug Venue Already In Place](chf-stablebond-has-named-demand-a-swiss-license-and-a-zug-venue-already-in-place.md)
+- [Circle Is The Shared Stakeholder That De Risks The Abound India Usdc Corridor](circle-is-the-shared-stakeholder-that-de-risks-the-abound-india-usdc-corridor.md)
 - [Circle Mint Plus Tether Mint Provisioning Is An Unnamed Productline](circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline.md)
 - [Coinbase Eur Gbp Rails Close The Eurob Gilts Fiat Ramp Gap](coinbase-eur-gbp-rails-close-the-eurob-gilts-fiat-ramp-gap.md)
 - [Colombia Is An Unbuilt Market With Stacked Partner Demand](colombia-is-an-unbuilt-market-with-stacked-partner-demand.md)
@@ -77,6 +81,8 @@
 - [One Allo Integration Makes 1500 Fund Treasuries Yield Bearing](one-allo-integration-makes-1500-fund-treasuries-yield-bearing.md)
 - [P0 Is Backdoor Distribution To Untouched Drift Kamino Jupiter](p0-is-backdoor-distribution-to-untouched-drift-kamino-jupiter.md)
 - [P0 Is The One Integration That Captures The Untouched Drift Jupiter Kamino Collateral Deals](p0-is-the-one-integration-that-captures-the-untouched-drift-jupiter-kamino-collateral-deals.md)
+- [Raj Parekh Monad Is A Bd Intro Engine Not Just A Chain Grant](raj-parekh-monad-is-a-bd-intro-engine-not-just-a-chain-grant.md)
+- [Repo Mechanism Answers Airtms Deal Killing Fast Cycling Objection](repo-mechanism-answers-airtms-deal-killing-fast-cycling-objection.md)
 - [Securities Reclassification Makes Stablebonds Listable On Tokenized Securities Dexs](securities-reclassification-makes-stablebonds-listable-on-tokenized-securities-dexs.md)
 - [Shinhan Am Payment Rails Dwarf Its Pipeline Valuation](shinhan-am-payment-rails-dwarf-its-pipeline-valuation.md)
 - [Shinhan Asset Management Is A Second Larger Shinhan The Pipeline Never Booked](shinhan-asset-management-is-a-second-larger-shinhan-the-pipeline-never-booked.md)
@@ -86,10 +92,11 @@
 - [Stablebonds Are The Yield Engine For Issuers Banned From Paying Yield](stablebonds-are-the-yield-engine-for-issuers-banned-from-paying-yield.md)
 - [Stablecoin Frontiers Cohort Is A Non Usd Issuer Reserve Pipeline](stablecoin-frontiers-cohort-is-a-non-usd-issuer-reserve-pipeline.md)
 - [Tala Mxne Revshare Is The Ready Template For Addi](tala-mxne-revshare-is-the-ready-template-for-addi.md)
+- [Times Of India Is Either The Biggest India Distribution Channel Or A Phantom Partner](times-of-india-is-either-the-biggest-india-distribution-channel-or-a-phantom-partner.md)
 - [Us Market Doubly Unlocked Banking Plus 40 Act Fund](us-market-doubly-unlocked-banking-plus-40-act-fund.md)
 - [Uzbekistan Shovel Ready Market](uzbekistan-shovel-ready-market.md)
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-22*
+*Last synthesized: 2026-06-25*
 
