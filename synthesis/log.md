@@ -264,3 +264,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): cetes-custody-dd-copy-drops-a-custodian-and-asserts-unverified-quality, repo-mechanism-answers-airtms-deal-killing-fast-cycling-objection
 - Notes: Focal=Actinver; retail-distribution angle already covered by existing 'cetes-custodians-are-untapped-retail-distribution' finding, so focused on (1) DD-copy custody inconsistency and (2) repo-mechanism deal unblock surfaced in the AirTM transcript.
 
+## [2026-06-27] Probe · 9-dots
+
+- Pages produced (2): the-36-percent-mexican-interest-tax-is-an-unsold-offshore-treasury-wedge, 9-dots-opens-a-commodity-exporter-treasury-vertical-via-oro
+- Notes: Two findings: (1) the 36% Mexican interest tax as a productizable offshore-treasury wedge that corrects understated/overstated CETES yield claims; (2) commodity-exporter treasury as a repeatable vertical fed by the ORO channel. Skipped a Japan-foothold angle since 9 Dots' Japan entity is a tax vehicle, not a distribution partner, and JAPTDB exposure is irrelevant to a Mexican miner.
+
+## [2026-06-27] Probe · abcripto
+
+- Pages produced (2): brazil-vasp-capital-floor-is-an-etherfuse-distribution-funnel, does-etherfuses-own-brazil-channel-trip-the-r37m-floor
+- Notes: Two ABCripto-anchored findings: one offensive (consolidation = distribution wedge), one defensive (capital-floor exposure of Etherfuse's own Brazil channel). Second is a flagged open question, deliberately low confidence.
+
+## [2026-06-27] Probe · absolut-sport
+
+- Pages produced (1): sports-events-agencies-are-a-repeatable-latam-fx-vertical-via-transfero
+- Notes: Focused on one high-quality vertical-opening synthesis; deliberately avoided restating the existing Argentina/Colombia/BRLe and Transfero-TESOURO findings, which already cover adjacent ground.
+

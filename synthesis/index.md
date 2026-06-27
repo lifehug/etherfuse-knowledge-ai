@@ -5,6 +5,7 @@
 - [0Xyz Is P0 The Stalled Grant Funded Collateral Deal The Wiki Cant See](0xyz-is-p0-the-stalled-grant-funded-collateral-deal-the-wiki-cant-see.md)
 - [1Money Hsbc Virtual Accounts Complete Us Market Unlock](1money-hsbc-virtual-accounts-complete-us-market-unlock.md)
 - [3Iq Is The Fund Wrapper For The Stablebond Index Nic Already Requested](3iq-is-the-fund-wrapper-for-the-stablebond-index-nic-already-requested.md)
+- [9 Dots Opens A Commodity Exporter Treasury Vertical Via Oro](9-dots-opens-a-commodity-exporter-treasury-vertical-via-oro.md)
 - [Aaro Is Lp Capital For The Stablebond Index Fund Not Another Wrapper](aaro-is-lp-capital-for-the-stablebond-index-fund-not-another-wrapper.md)
 - [Abound Inr Offshore Issuance Should Ride Etherfuses Bermuda License Not A New Vehicle](abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle.md)
 - [Abound Is Ready Distribution For The Planned Indtb Stablebond](abound-is-ready-distribution-for-the-planned-indtb-stablebond.md)
@@ -39,6 +40,7 @@
 - [Bbva Spark Is The Shared Warm Intro Into Aplazo](bbva-spark-is-the-shared-warm-intro-into-aplazo.md)
 - [Bermuda Is Default Whitelabel Stablecoin Issuance Hub](bermuda-is-default-whitelabel-stablecoin-issuance-hub.md)
 - [Bolivia Three Inbounds Missing From Bond Roadmap](bolivia-three-inbounds-missing-from-bond-roadmap.md)
+- [Brazil Vasp Capital Floor Is An Etherfuse Distribution Funnel](brazil-vasp-capital-floor-is-an-etherfuse-distribution-funnel.md)
 - [Brle Sovereign Coin Is Named Demand Clone The Mxne Model On Tesouro](brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro.md)
 - [Brogan Law Is Doubling As Etherfuses Warm Intro Engine](brogan-law-is-doubling-as-etherfuses-warm-intro-engine.md)
 - [Cetes Custodians Are Untapped Retail Distribution For The 2Pct Problem](cetes-custodians-are-untapped-retail-distribution-for-the-2pct-problem.md)
@@ -51,6 +53,7 @@
 - [Compass Labs Is The Partner Onboarding Nic Into Etherfuse](compass-labs-is-the-partner-onboarding-nic-into-etherfuse.md)
 - [Corridor Treasury Product Decoupled From Bond Roadmap](corridor-treasury-product-decoupled-from-bond-roadmap.md)
 - [Defi Composability Vs Insurability Tension](defi-composability-vs-insurability-tension.md)
+- [Does Etherfuses Own Brazil Channel Trip The R37M Floor](does-etherfuses-own-brazil-channel-trip-the-r37m-floor.md)
 - [Etherfuse Backend Liquidity Stablecoin Closes The Defi Gap](etherfuse-backend-liquidity-stablecoin-closes-the-defi-gap.md)
 - [Etherfuse Is Sitting On 3M Of Foundation Grant Allocation As An Untapped Conversion Engine](etherfuse-is-sitting-on-3m-of-foundation-grant-allocation-as-an-untapped-conversion-engine.md)
 - [Etherfuse Is The Collateral Backend For A Fragmenting Consortium Of Partner Stablecoins](etherfuse-is-the-collateral-backend-for-a-fragmenting-consortium-of-partner-stablecoins.md)
@@ -89,14 +92,16 @@
 - [Shinhan Sol Etf K Buidl First Offshore](shinhan-sol-etf-k-buidl-first-offshore.md)
 - [Solana Monad Grants Dont Convert Stellar Does](solana-monad-grants-dont-convert-stellar-does.md)
 - [Solana Non Usd Collateral Cluster Is One Productized Deal Not Four](solana-non-usd-collateral-cluster-is-one-productized-deal-not-four.md)
+- [Sports Events Agencies Are A Repeatable Latam Fx Vertical Via Transfero](sports-events-agencies-are-a-repeatable-latam-fx-vertical-via-transfero.md)
 - [Stablebonds Are The Yield Engine For Issuers Banned From Paying Yield](stablebonds-are-the-yield-engine-for-issuers-banned-from-paying-yield.md)
 - [Stablecoin Frontiers Cohort Is A Non Usd Issuer Reserve Pipeline](stablecoin-frontiers-cohort-is-a-non-usd-issuer-reserve-pipeline.md)
 - [Tala Mxne Revshare Is The Ready Template For Addi](tala-mxne-revshare-is-the-ready-template-for-addi.md)
+- [The 36 Percent Mexican Interest Tax Is An Unsold Offshore Treasury Wedge](the-36-percent-mexican-interest-tax-is-an-unsold-offshore-treasury-wedge.md)
 - [Times Of India Is Either The Biggest India Distribution Channel Or A Phantom Partner](times-of-india-is-either-the-biggest-india-distribution-channel-or-a-phantom-partner.md)
 - [Us Market Doubly Unlocked Banking Plus 40 Act Fund](us-market-doubly-unlocked-banking-plus-40-act-fund.md)
 - [Uzbekistan Shovel Ready Market](uzbekistan-shovel-ready-market.md)
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-25*
+*Last synthesized: 2026-06-27*
 
