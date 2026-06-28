@@ -10,6 +10,7 @@
 - [Abound Inr Offshore Issuance Should Ride Etherfuses Bermuda License Not A New Vehicle](abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle.md)
 - [Abound Is Ready Distribution For The Planned Indtb Stablebond](abound-is-ready-distribution-for-the-planned-indtb-stablebond.md)
 - [Abound Off Ramp Float Is An Immediate Ustry Customer Before Indtb Ships](abound-off-ramp-float-is-an-immediate-ustry-customer-before-indtb-ships.md)
+- [Addi Is The Launch Customer For The In Flight Cop Stablebond Not Just An Mxn Float Pitch](addi-is-the-launch-customer-for-the-in-flight-cop-stablebond-not-just-an-mxn-float-pitch.md)
 - [Aegis Needs The Buidl Reserve Leg Stablebonds Supply](aegis-needs-the-buidl-reserve-leg-stablebonds-supply.md)
 - [Aeromexico Ticket Float And Loyalty Are Yield Products Not Custody Pitches](aeromexico-ticket-float-and-loyalty-are-yield-products-not-custody-pitches.md)
 - [Agora Ausd Is The Underpriced Usd Leg For The Now Bigger Korea Launch](agora-ausd-is-the-underpriced-usd-leg-for-the-now-bigger-korea-launch.md)
@@ -43,6 +44,7 @@
 - [Brazil Vasp Capital Floor Is An Etherfuse Distribution Funnel](brazil-vasp-capital-floor-is-an-etherfuse-distribution-funnel.md)
 - [Brle Sovereign Coin Is Named Demand Clone The Mxne Model On Tesouro](brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro.md)
 - [Brogan Law Is Doubling As Etherfuses Warm Intro Engine](brogan-law-is-doubling-as-etherfuses-warm-intro-engine.md)
+- [Cdmx Event Circuit Is An Untracked Co Marketing Funnel](cdmx-event-circuit-is-an-untracked-co-marketing-funnel.md)
 - [Cetes Custodians Are Untapped Retail Distribution For The 2Pct Problem](cetes-custodians-are-untapped-retail-distribution-for-the-2pct-problem.md)
 - [Cetes Custody Dd Copy Drops A Custodian And Asserts Unverified Quality](cetes-custody-dd-copy-drops-a-custodian-and-asserts-unverified-quality.md)
 - [Chf Stablebond Has Named Demand A Swiss License And A Zug Venue Already In Place](chf-stablebond-has-named-demand-a-swiss-license-and-a-zug-venue-already-in-place.md)
@@ -60,6 +62,7 @@
 - [Eurau Is The Cheaper Eur Mint Currency Not Just A Reserve Customer](eurau-is-the-cheaper-eur-mint-currency-not-just-a-reserve-customer.md)
 - [Fital Omnibus Is One Integration That Activates The Entire Unbuilt Latam Roadmap](fital-omnibus-is-one-integration-that-activates-the-entire-unbuilt-latam-roadmap.md)
 - [Four Cetes Custodians Rebut The Concentration Risk Objection](four-cetes-custodians-rebut-the-concentration-risk-objection.md)
+- [Four Mexican Custodians Already Answer Nic Nbks Concentration Risk Objection](four-mexican-custodians-already-answer-nic-nbks-concentration-risk-objection.md)
 - [Gbp Stablecoin Reserve Demand Sell Gilts Dont Cross Promote](gbp-stablecoin-reserve-demand-sell-gilts-dont-cross-promote.md)
 - [Georgia Is Inbound Government Demand With A Ready Halyk Custody Path](georgia-is-inbound-government-demand-with-a-ready-halyk-custody-path.md)
 - [Government Tokenization Wave Is White Label Tam](government-tokenization-wave-is-white-label-tam.md)
@@ -103,5 +106,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-27*
+*Last synthesized: 2026-06-28*
 

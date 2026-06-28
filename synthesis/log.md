@@ -279,3 +279,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): sports-events-agencies-are-a-repeatable-latam-fx-vertical-via-transfero
 - Notes: Focused on one high-quality vertical-opening synthesis; deliberately avoided restating the existing Argentina/Colombia/BRLe and Transfero-TESOURO findings, which already cover adjacent ground.
 
+## [2026-06-28] Probe · accesly
+
+- Pages produced (1): cdmx-event-circuit-is-an-untracked-co-marketing-funnel
+- Notes: Focal entity (Accesly) is single-source and thin; only one defensible cross-source synthesis (co-marketing motion + CDMX event funnel). Returned at low confidence.
+
+## [2026-06-28] Probe · actinver-casa-de-bolsa
+
+- Pages produced (1): four-mexican-custodians-already-answer-nic-nbks-concentration-risk-objection
+- Notes: Single high-confidence synthesis linking the Actinver custodian roster to NIC NBK's open concentration-risk objection; distinct from existing retail-distribution and DD-copy findings.
+
+## [2026-06-28] Probe · addi
+
+- Pages produced (1): addi-is-the-launch-customer-for-the-in-flight-cop-stablebond-not-just-an-mxn-float-pitch
+- Notes: One high-value synthesis: Addi reframed as launch customer for the in-flight COP Stablebond (BBVA/Tempo), distinct from existing Aplazo→Bando BNPL finding and generic Colombia-roadmap findings.
+
