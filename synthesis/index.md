@@ -51,6 +51,7 @@
 - [Circle Is The Shared Stakeholder That De Risks The Abound India Usdc Corridor](circle-is-the-shared-stakeholder-that-de-risks-the-abound-india-usdc-corridor.md)
 - [Circle Mint Plus Tether Mint Provisioning Is An Unnamed Productline](circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline.md)
 - [Coinbase Eur Gbp Rails Close The Eurob Gilts Fiat Ramp Gap](coinbase-eur-gbp-rails-close-the-eurob-gilts-fiat-ramp-gap.md)
+- [Colombia Cop Launch Has A Three Partner Demand Cohort And One Missing Rail Bre B](colombia-cop-launch-has-a-three-partner-demand-cohort-and-one-missing-rail-bre-b.md)
 - [Colombia Is An Unbuilt Market With Stacked Partner Demand](colombia-is-an-unbuilt-market-with-stacked-partner-demand.md)
 - [Compass Labs Is The Partner Onboarding Nic Into Etherfuse](compass-labs-is-the-partner-onboarding-nic-into-etherfuse.md)
 - [Corridor Treasury Product Decoupled From Bond Roadmap](corridor-treasury-product-decoupled-from-bond-roadmap.md)
@@ -61,6 +62,7 @@
 - [Etherfuse Is The Collateral Backend For A Fragmenting Consortium Of Partner Stablecoins](etherfuse-is-the-collateral-backend-for-a-fragmenting-consortium-of-partner-stablecoins.md)
 - [Eurau Is The Cheaper Eur Mint Currency Not Just A Reserve Customer](eurau-is-the-cheaper-eur-mint-currency-not-just-a-reserve-customer.md)
 - [Fital Omnibus Is One Integration That Activates The Entire Unbuilt Latam Roadmap](fital-omnibus-is-one-integration-that-activates-the-entire-unbuilt-latam-roadmap.md)
+- [Four Cetes Custodians Are The Unused Answer To Nic Nbks Concentration Objection](four-cetes-custodians-are-the-unused-answer-to-nic-nbks-concentration-objection.md)
 - [Four Cetes Custodians Rebut The Concentration Risk Objection](four-cetes-custodians-rebut-the-concentration-risk-objection.md)
 - [Four Mexican Custodians Already Answer Nic Nbks Concentration Risk Objection](four-mexican-custodians-already-answer-nic-nbks-concentration-risk-objection.md)
 - [Gbp Stablecoin Reserve Demand Sell Gilts Dont Cross Promote](gbp-stablecoin-reserve-demand-sell-gilts-dont-cross-promote.md)
@@ -82,6 +84,7 @@
 - [Monad Foundation Is Quietly Sourcing Etherfuses Emerging Market Deals](monad-foundation-is-quietly-sourcing-etherfuses-emerging-market-deals.md)
 - [Monad Foundations Real Value Is Deal Flow Not Grants](monad-foundations-real-value-is-deal-flow-not-grants.md)
 - [Moneygram Spans Etherfuses Two Deepest Moats Mexico And Kazakhstan](moneygram-spans-etherfuses-two-deepest-moats-mexico-and-kazakhstan.md)
+- [Nigeria Has A Warm Intro And 26M Users But No Ngn Stablebond](nigeria-has-a-warm-intro-and-26m-users-but-no-ngn-stablebond.md)
 - [Non Usd Defi Collateral Category Etherfuse As Default Backend](non-usd-defi-collateral-category-etherfuse-as-default-backend.md)
 - [Offshore Inr Issuance Should Reuse Aifc Spc Not Shop For Custody](offshore-inr-issuance-should-reuse-aifc-spc-not-shop-for-custody.md)
 - [One Allo Integration Makes 1500 Fund Treasuries Yield Bearing](one-allo-integration-makes-1500-fund-treasuries-yield-bearing.md)
@@ -106,5 +109,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-06-28*
+*Last synthesized: 2026-06-29*
 

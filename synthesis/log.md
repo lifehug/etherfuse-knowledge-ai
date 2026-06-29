@@ -294,3 +294,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): addi-is-the-launch-customer-for-the-in-flight-cop-stablebond-not-just-an-mxn-float-pitch
 - Notes: One high-value synthesis: Addi reframed as launch customer for the in-flight COP Stablebond (BBVA/Tempo), distinct from existing Aplazo→Bando BNPL finding and generic Colombia-roadmap findings.
 
+## [2026-06-29] Probe · accesly
+
+- Pages produced (1): nigeria-has-a-warm-intro-and-26m-users-but-no-ngn-stablebond
+- Notes: Focal entity (Accesly) is thin and its co-marketing angle is already covered; the only genuinely new cross-source connection in this slice is the Nigeria demand-vs-roadmap gap surfaced by the bmoni meeting + Freedom case study + bond roadmap.
+
+## [2026-06-29] Probe · actinver-casa-de-bolsa
+
+- Pages produced (1): four-cetes-custodians-are-the-unused-answer-to-nic-nbks-concentration-objection
+- Notes: Single high-confidence-adjacent finding; the obvious Actinver angles (retail distribution, DD copy gaps) are already covered by existing findings, so this focuses on the unused NIC-NBK concentration-risk rebuttal.
+
+## [2026-06-29] Probe · addi
+
+- Pages produced (1): colombia-cop-launch-has-a-three-partner-demand-cohort-and-one-missing-rail-bre-b
+- Notes: One new synthesis: elevates the existing Addi/COP finding into a multi-partner Colombia demand cohort and surfaces the Bre-B off-ramp as the specific unbuilt rail (analogue to PIX/SPEI).
+
