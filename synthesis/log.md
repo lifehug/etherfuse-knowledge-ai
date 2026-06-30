@@ -309,3 +309,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): colombia-cop-launch-has-a-three-partner-demand-cohort-and-one-missing-rail-bre-b
 - Notes: One new synthesis: elevates the existing Addi/COP finding into a multi-partner Colombia demand cohort and surfaces the Bre-B off-ramp as the specific unbuilt rail (analogue to PIX/SPEI).
 
+## [2026-06-30] Probe · aden
+
+- Pages produced (3): etherfuse-spc-limited-is-the-issuer-the-korea-k-buidl-deal-is-blocked-on, nigeria-has-stacked-demand-and-a-rare-regulated-rail-but-no-ngn-product, build-the-institutional-dd-pack-once-the-same-questions-recur-across-every-deal
+- Notes: Aden itself is an empty CDMX-Week lead with no enrichable detail; findings synthesized from the surrounding neighborhood (K-BUIDL/AIFC, Meta/Nigeria, Tala DD).
+
+## [2026-06-30] Probe · advantage-security
+
+- Pages produced (1): advantage-security-accreditation-gap-undermines-institutional-kyc-moat
+- Notes: Single risk-on-the-revenue-path synthesis; declined to spin the speculative Sovos-as-tax-partner angle into a standalone shallow page.
+
+## [2026-06-30] Probe · adyen
+
+- Pages produced (1): adyen-real-prize-is-fx-settlement-volume-not-float-yield
+- Notes: Adyen page is thin/low-trust with no contacts; the only genuinely new, defensible synthesis reorders the revenue thesis (FX-settlement volume > float yield). Argentina demand already covered by an existing finding; avoided inventing Adyen's unsourced market footprint or card-issuing business.
+
