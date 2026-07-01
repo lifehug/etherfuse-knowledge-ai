@@ -324,3 +324,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): adyen-real-prize-is-fx-settlement-volume-not-float-yield
 - Notes: Adyen page is thin/low-trust with no contacts; the only genuinely new, defensible synthesis reorders the revenue thesis (FX-settlement volume > float yield). Argentina demand already covered by an existing finding; avoided inventing Adyen's unsourced market footprint or card-issuing business.
 
+## [2026-07-01] Probe · aegis
+
+- Pages produced (1): beat-buidl-with-a-multi-sovereign-reserve-basket-for-synthetic-dollar-issuers
+- Notes: Single new page; adds a competitive-differentiation/product-mix angle (multi-sovereign basket that out-yields BUIDL) distinct from the existing 'sell USTRY as reserve leg' Aegis finding. Most other neighborhood docs are generic context already covered by prior findings.
+
+## [2026-07-01] Probe · aeromexico
+
+- Pages produced (1): aeromexico-is-a-multi-currency-fx-consolidation-play-not-just-mxn-yield
+- Notes: One new finding; distinct from the existing Aeromexico page's MXN-yield thesis by focusing on international multi-currency FX consolidation and an airline vertical.
+
+## [2026-07-01] Probe · agant
+
+- Pages produced (2): agant-handed-etherfuse-its-bermuda-strategy-yet-sits-unprioritized, agant-gbp-stablecoin-should-ride-etherfuse-gilts-not-rebuild-it
+- Notes: Both findings hinge on the same under-valued Agant relationship; #1 (Bermuda-origination) is high-confidence and the faster win.
+
