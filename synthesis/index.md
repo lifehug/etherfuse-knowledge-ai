@@ -19,6 +19,7 @@
 - [Agant Gbp Stablecoin Should Ride Etherfuse Gilts Not Rebuild It](agant-gbp-stablecoin-should-ride-etherfuse-gilts-not-rebuild-it.md)
 - [Agant Handed Etherfuse Its Bermuda Strategy Yet Sits Unprioritized](agant-handed-etherfuse-its-bermuda-strategy-yet-sits-unprioritized.md)
 - [Agora Ausd Is The Underpriced Usd Leg For The Now Bigger Korea Launch](agora-ausd-is-the-underpriced-usd-leg-for-the-now-bigger-korea-launch.md)
+- [Agora Noble Plume Are One Stalled Non Usd Fx Marketplace](agora-noble-plume-are-one-stalled-non-usd-fx-marketplace.md)
 - [Agridex Signed Kyb Stalled Onboarding Is Recoverable Revenue](agridex-signed-kyb-stalled-onboarding-is-recoverable-revenue.md)
 - [Aifc Spc Gcc Passport Mena Roadmap](aifc-spc-gcc-passport-mena-roadmap.md)
 - [Aifc Spc Is A Tax Deferred Institutional Wrapper Sellable Worldwide](aifc-spc-is-a-tax-deferred-institutional-wrapper-sellable-worldwide.md)
@@ -68,11 +69,13 @@
 - [Etherfuse Is Sitting On 3M Of Foundation Grant Allocation As An Untapped Conversion Engine](etherfuse-is-sitting-on-3m-of-foundation-grant-allocation-as-an-untapped-conversion-engine.md)
 - [Etherfuse Is The Collateral Backend For A Fragmenting Consortium Of Partner Stablecoins](etherfuse-is-the-collateral-backend-for-a-fragmenting-consortium-of-partner-stablecoins.md)
 - [Etherfuse Spc Limited Is The Issuer The Korea K Buidl Deal Is Blocked On](etherfuse-spc-limited-is-the-issuer-the-korea-k-buidl-deal-is-blocked-on.md)
+- [Eur Sovereign Coin From Eurob Beats Oat Bond For France Retail](eur-sovereign-coin-from-eurob-beats-oat-bond-for-france-retail.md)
 - [Eurau Is The Cheaper Eur Mint Currency Not Just A Reserve Customer](eurau-is-the-cheaper-eur-mint-currency-not-just-a-reserve-customer.md)
 - [Fital Omnibus Is One Integration That Activates The Entire Unbuilt Latam Roadmap](fital-omnibus-is-one-integration-that-activates-the-entire-unbuilt-latam-roadmap.md)
 - [Four Cetes Custodians Are The Unused Answer To Nic Nbks Concentration Objection](four-cetes-custodians-are-the-unused-answer-to-nic-nbks-concentration-objection.md)
 - [Four Cetes Custodians Rebut The Concentration Risk Objection](four-cetes-custodians-rebut-the-concentration-risk-objection.md)
 - [Four Mexican Custodians Already Answer Nic Nbks Concentration Risk Objection](four-mexican-custodians-already-answer-nic-nbks-concentration-risk-objection.md)
+- [France Oat Needs No Aft Just Spiko And Dasp](france-oat-needs-no-aft-just-spiko-and-dasp.md)
 - [Gbp Stablecoin Reserve Demand Sell Gilts Dont Cross Promote](gbp-stablecoin-reserve-demand-sell-gilts-dont-cross-promote.md)
 - [Georgia Is Inbound Government Demand With A Ready Halyk Custody Path](georgia-is-inbound-government-demand-with-a-ready-halyk-custody-path.md)
 - [Government Tokenization Wave Is White Label Tam](government-tokenization-wave-is-white-label-tam.md)
@@ -113,10 +116,11 @@
 - [Tala Mxne Revshare Is The Ready Template For Addi](tala-mxne-revshare-is-the-ready-template-for-addi.md)
 - [The 36 Percent Mexican Interest Tax Is An Unsold Offshore Treasury Wedge](the-36-percent-mexican-interest-tax-is-an-unsold-offshore-treasury-wedge.md)
 - [Times Of India Is Either The Biggest India Distribution Channel Or A Phantom Partner](times-of-india-is-either-the-biggest-india-distribution-channel-or-a-phantom-partner.md)
+- [Uae Tin Gap Is A Systemic Blocker For The Entire Mena Roadmap](uae-tin-gap-is-a-systemic-blocker-for-the-entire-mena-roadmap.md)
 - [Us Market Doubly Unlocked Banking Plus 40 Act Fund](us-market-doubly-unlocked-banking-plus-40-act-fund.md)
 - [Uzbekistan Shovel Ready Market](uzbekistan-shovel-ready-market.md)
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-07-01*
+*Last synthesized: 2026-07-02*
 

@@ -339,3 +339,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): agant-handed-etherfuse-its-bermuda-strategy-yet-sits-unprioritized, agant-gbp-stablecoin-should-ride-etherfuse-gilts-not-rebuild-it
 - Notes: Both findings hinge on the same under-valued Agant relationship; #1 (Bermuda-origination) is high-confidence and the faster win.
 
+## [2026-07-02] Probe · agence-france-tresor
+
+- Pages produced (2): france-oat-needs-no-aft-just-spiko-and-dasp, eur-sovereign-coin-from-eurob-beats-oat-bond-for-france-retail
+- Notes: Both findings reframe France from AFT-dependent research-stage entry to a near-config reuse of live EUROB/Spiko assets; grounded only in this neighborhood's sources.
+
+## [2026-07-02] Probe · aggregate-labs-assetto
+
+- Pages produced (1): uae-tin-gap-is-a-systemic-blocker-for-the-entire-mena-roadmap
+- Notes: One high-leverage finding surfaced: the UAE-TIN documentation gap generalizes from an Aggregate Labs KYB footnote into a systemic gate on the MENA sovereign roadmap and Gulf pipeline.
+
+## [2026-07-02] Probe · agora
+
+- Pages produced (1): agora-noble-plume-are-one-stalled-non-usd-fx-marketplace
+- Notes: One synthesis; the individual pages each state their own facts but none connects the three as a single fragmented FX-marketplace product under one owner.
+
