@@ -354,3 +354,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): agora-noble-plume-are-one-stalled-non-usd-fx-marketplace
 - Notes: One synthesis; the individual pages each state their own facts but none connects the three as a single fragmented FX-marketplace product under one owner.
 
+## [2026-07-03] Probe · agridex
+
+- Pages produced (1): agridex-is-a-defi-collateral-venue-and-ag-trade-finance-vertical-not-a-treasury-onboarding
+- Notes: One synthesis; the stalled-onboarding re-engagement angle is already covered by an existing finding, so this focuses on Agridex's DEX/RWA-collateral and ag-trade-finance identity, which no existing page addresses.
+
+## [2026-07-03] Probe · aha-company
+
+- Pages produced (2): sg-forge-euro-stablecoin-is-a-eurob-backed-sovereign-coin-not-a-generic-yield-product, sg-forge-cash-to-stable-fills-etherfuses-missing-eur-gbp-fiat-ramp
+- Notes: Both findings hinge on the still-pending SG Forge intro from AHA's Enzo; confidence capped at medium until the product-owner call happens.
+
+## [2026-07-03] Probe · aifc
+
+- Pages produced (2): aifc-license-is-the-regulatory-home-for-etherfuses-phase-2-yield-and-fx-products, aifc-oracle-license-plus-redstone-is-a-sellable-regulated-oracle-service
+- Notes: Both findings exploit the six AFSA licensed activities (FIN-491/FIN-413) that prior AIFC findings did not analyze; the first ties activity scope to the NIC-NBK phase-2 roadmap and FX product, the second to live RedStone infrastructure.
+

@@ -20,7 +20,10 @@
 - [Agant Handed Etherfuse Its Bermuda Strategy Yet Sits Unprioritized](agant-handed-etherfuse-its-bermuda-strategy-yet-sits-unprioritized.md)
 - [Agora Ausd Is The Underpriced Usd Leg For The Now Bigger Korea Launch](agora-ausd-is-the-underpriced-usd-leg-for-the-now-bigger-korea-launch.md)
 - [Agora Noble Plume Are One Stalled Non Usd Fx Marketplace](agora-noble-plume-are-one-stalled-non-usd-fx-marketplace.md)
+- [Agridex Is A Defi Collateral Venue And Ag Trade Finance Vertical Not A Treasury Onboarding](agridex-is-a-defi-collateral-venue-and-ag-trade-finance-vertical-not-a-treasury-onboarding.md)
 - [Agridex Signed Kyb Stalled Onboarding Is Recoverable Revenue](agridex-signed-kyb-stalled-onboarding-is-recoverable-revenue.md)
+- [Aifc License Is The Regulatory Home For Etherfuses Phase 2 Yield And Fx Products](aifc-license-is-the-regulatory-home-for-etherfuses-phase-2-yield-and-fx-products.md)
+- [Aifc Oracle License Plus Redstone Is A Sellable Regulated Oracle Service](aifc-oracle-license-plus-redstone-is-a-sellable-regulated-oracle-service.md)
 - [Aifc Spc Gcc Passport Mena Roadmap](aifc-spc-gcc-passport-mena-roadmap.md)
 - [Aifc Spc Is A Tax Deferred Institutional Wrapper Sellable Worldwide](aifc-spc-is-a-tax-deferred-institutional-wrapper-sellable-worldwide.md)
 - [Airtm Pipeline Number Understates The Jv By An Order Of Magnitude](airtm-pipeline-number-understates-the-jv-by-an-order-of-magnitude.md)
@@ -105,6 +108,8 @@
 - [Raj Parekh Monad Is A Bd Intro Engine Not Just A Chain Grant](raj-parekh-monad-is-a-bd-intro-engine-not-just-a-chain-grant.md)
 - [Repo Mechanism Answers Airtms Deal Killing Fast Cycling Objection](repo-mechanism-answers-airtms-deal-killing-fast-cycling-objection.md)
 - [Securities Reclassification Makes Stablebonds Listable On Tokenized Securities Dexs](securities-reclassification-makes-stablebonds-listable-on-tokenized-securities-dexs.md)
+- [Sg Forge Cash To Stable Fills Etherfuses Missing Eur Gbp Fiat Ramp](sg-forge-cash-to-stable-fills-etherfuses-missing-eur-gbp-fiat-ramp.md)
+- [Sg Forge Euro Stablecoin Is A Eurob Backed Sovereign Coin Not A Generic Yield Product](sg-forge-euro-stablecoin-is-a-eurob-backed-sovereign-coin-not-a-generic-yield-product.md)
 - [Shinhan Am Payment Rails Dwarf Its Pipeline Valuation](shinhan-am-payment-rails-dwarf-its-pipeline-valuation.md)
 - [Shinhan Asset Management Is A Second Larger Shinhan The Pipeline Never Booked](shinhan-asset-management-is-a-second-larger-shinhan-the-pipeline-never-booked.md)
 - [Shinhan Sol Etf K Buidl First Offshore](shinhan-sol-etf-k-buidl-first-offshore.md)
@@ -122,5 +127,5 @@
 - [Visa Card Collateral Completes The Remittance Loop](visa-card-collateral-completes-the-remittance-loop.md)
 
 ---
-*Last synthesized: 2026-07-02*
+*Last synthesized: 2026-07-03*
 
