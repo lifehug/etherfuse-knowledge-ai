@@ -369,3 +369,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): aifc-license-is-the-regulatory-home-for-etherfuses-phase-2-yield-and-fx-products, aifc-oracle-license-plus-redstone-is-a-sellable-regulated-oracle-service
 - Notes: Both findings exploit the six AFSA licensed activities (FIN-491/FIN-413) that prior AIFC findings did not analyze; the first ties activity scope to the NIC-NBK phase-2 roadmap and FX product, the second to live RedStone infrastructure.
 
+## [2026-07-04] Probe · aifc-afsa
+
+- Pages produced (2): aifc-fast-track-is-the-gating-unlock-for-freedom-banks-5m-user-distribution, astana-finance-days-is-a-ready-made-launch-stage-for-the-whole-kz-partner-cluster
+- Notes: Two new AIFC-anchored syntheses (Freedom-unlock sequencing; Astana Finance Days as launch stage); avoided restating the existing AIX, Phase-2-yield, tax-wrapper, and GCC-passport findings.
+
+## [2026-07-04] Probe · aim-switch
+
+- Pages produced (1): aim-switch-60b-volume-dwarfs-the-pipeline-yet-has-no-owner
+- Notes: Single high-conviction synthesis; AIM Switch page is a 1-source stub so quantification is caveated. Skipped a Visa-card-collateral angle as too speculative (unknown whether AIM Switch holds a BIN).
+
+## [2026-07-04] Probe · airtm
+
+- Pages produced (2): bolivia-triple-stacked-demand-with-airtm-already-live-is-the-clearest-unroadmapped-market, airtm-rafael-visa-seat-is-the-vehicle-to-deploy-etherfuses-card-collateral-playbook-across-latam
+- Notes: Focused on genuinely new items; deliberately avoided restating the AirTM pipeline-understatement, Bermuda-strategy, and Argentina-roadmap findings already in the set.
+
