@@ -384,3 +384,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): bolivia-triple-stacked-demand-with-airtm-already-live-is-the-clearest-unroadmapped-market, airtm-rafael-visa-seat-is-the-vehicle-to-deploy-etherfuses-card-collateral-playbook-across-latam
 - Notes: Focused on genuinely new items; deliberately avoided restating the AirTM pipeline-understatement, Bermuda-strategy, and Argentina-roadmap findings already in the set.
 
+## [2026-07-05] Probe · airwallex
+
+- Pages produced (1): airwallex-is-the-apac-fiat-rail-for-the-standard-chartered-stablebond-launches-not-just-a-yield-customer
+- Notes: One new finding; the yield-distribution angle and Ant/PSP-float angles are already covered by existing findings, so I limited output to the supply-side rails synthesis.
+
+## [2026-07-05] Probe · aix
+
+- Pages produced (2): aix-etn-wrapper-is-the-retail-listed-vehicle-for-the-nic-requested-stablebond-index, aix-shanghai-cross-listing-is-the-institutional-china-corridor-freedom-couldnt-open-at-retail
+- Notes: AIX itself is well-covered by existing findings; these two connect AIX's ETN/TabaDo retail rail to NIC's index demand and AIX's Shanghai link to Freedom's stalled China corridor.
+
+## [2026-07-05] Probe · alatau-city-bank
+
+- Pages produced (1): alatau-city-bank-is-the-unclaimed-second-kz-rail-that-answers-nics-concentration-objection
+- Notes: One synthesis; the collateral-lending and same-day-account angles were too thin relative to Etherfuse's own-liquidity launch model to stand alone.
+
