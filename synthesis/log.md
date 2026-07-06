@@ -399,3 +399,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): alatau-city-bank-is-the-unclaimed-second-kz-rail-that-answers-nics-concentration-objection
 - Notes: One synthesis; the collateral-lending and same-day-account angles were too thin relative to Etherfuse's own-liquidity launch model to stand alone.
 
+## [2026-07-06] Probe · aftech
+
+- Pages produced (2): bareksa-is-the-ready-made-indsun-distributor-hiding-in-aftechs-membership, aftech-chairmanship-is-one-relationship-that-unlocks-both-indonesia-distribution-and-ojk
+- Notes: Both syntheses connect the near-empty AFTECH stub to the detailed Indonesia market/research sources; strongest new signal is Bareksa (an AFTECH member already distributing retail SPN) as the missing INDSUN distributor the market page omits.
+
+## [2026-07-06] Probe · albo
+
+- Pages produced (1): albo-is-a-visa-card-float-and-consumer-balance-yield-play-not-a-cold-savings-pitch
+- Notes: Single high-confidence-of-fit synthesis; Albo page is low-trust stub so card-issuer specifics are inferred from its stated debit-card business plus the general Visa playbook.
+
+## [2026-07-06] Probe · alfred-pay
+
+- Pages produced (2): mexican-ifpa-yield-prohibition-makes-etherfuse-the-mandatory-yield-layer, alfred-argentina-vasp-and-colombia-are-ready-ramps-for-etherfuses-next-issuances
+- Notes: Focal Alfred Pay: skipped the already-covered Fireblocks CAB angle. Surfaced (1) the cross-source IFPA yield-ban vertical (Alfred + BeKey/Bitso) and (2) Alfred's Argentina/Colombia licenses as ramps for planned new issuances.
+
