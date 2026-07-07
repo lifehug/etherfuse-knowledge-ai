@@ -414,3 +414,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): mexican-ifpa-yield-prohibition-makes-etherfuse-the-mandatory-yield-layer, alfred-argentina-vasp-and-colombia-are-ready-ramps-for-etherfuses-next-issuances
 - Notes: Focal Alfred Pay: skipped the already-covered Fireblocks CAB angle. Surfaced (1) the cross-source IFPA yield-ban vertical (Alfred + BeKey/Bitso) and (2) Alfred's Argentina/Colombia licenses as ramps for planned new issuances.
 
+## [2026-07-07] Probe · all-unity
+
+- Pages produced (2): all-unity-hkd-aud-cny-ambitions-match-etherfuses-q3-q4-2026-roadmap-exactly, all-unity-is-the-regulated-eur-leg-of-the-stalled-non-usd-fx-marketplace
+- Notes: Skipped the EUROB-as-EURAU-reserve angle since the All Unity page already states it as the deal's next step; the two findings above are the genuinely new cross-source connections (roadmap-currency match and FX-marketplace consolidation).
+
+## [2026-07-07] Probe · allfunds-blockchain
+
+- Pages produced (2): allfunds-blockchain-is-euro-wide-distribution-for-live-eurob-not-a-future-spain-debt-prospect, allfunds-blockchain-is-the-missing-eu-institutional-distribution-leg-for-the-nic-requested-stablebond-index
+- Notes: Both findings hinge on re-scoping Allfunds from a speculative Spain-only prospect to a pan-European institutional fund-distribution rail; finding 1 (live EUROB) is the faster win, finding 2 (index distribution) depends on the index product actually being built.
+
+## [2026-07-07] Probe · allo-xyz
+
+- Pages produced (1): allo-btc-lending-pipeline-is-a-ustry-reserve-leg-not-just-an-spv-distributor
+- Notes: Allo already has 3 existing findings (SPV wrapper, US Reg-S access, Aaro LP capital); the only genuinely new, non-restating lever here is the unanswered $30B BTC-lending reserve-float angle mapped to live USTRY case studies.
+
