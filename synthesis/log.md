@@ -429,3 +429,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): allo-btc-lending-pipeline-is-a-ustry-reserve-leg-not-just-an-spv-distributor
 - Notes: Allo already has 3 existing findings (SPV wrapper, US Reg-S access, Aaro LP capital); the only genuinely new, non-restating lever here is the unanswered $30B BTC-lending reserve-float angle mapped to live USTRY case studies.
 
+## [2026-07-08] Probe · allo-xyz-allocations
+
+- Pages produced (1): allo-marketplace-listing-is-the-fastest-allo-win-not-a-new-spv
+- Notes: Allo is already heavily synthesized (3+ existing findings on SPV/index/reserve-leg); the only genuinely new angle is the direct marketplace-listing of existing products as the fastest path. Returning a single high-confidence-adjacent finding rather than padding.
+
+## [2026-07-08] Probe · alloxyz
+
+- Pages produced (1): allo-auto-yield-sweep-turns-fund-admin-velocity-into-self-scaling-aum
+- Notes: Allo is already heavily covered (3 findings); this is the one distinct mechanism-level angle — auto-sweep embedded in fund-creation velocity — not restated elsewhere.
+
+## [2026-07-08] Probe · allunity
+
+- Pages produced (1): allunity-chfau-is-the-native-collateral-fit-for-etherfuses-q4-2026-chf-stablebond
+- Notes: One new finding; CHF-Stablebond↔CHFAU collateral fit is uncovered by the three existing AllUnity findings (which frame it as EUR/EURAU). Flagged the EUR-vs-CHF label discrepancy for resolution.
+
