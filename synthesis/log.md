@@ -444,3 +444,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): allunity-chfau-is-the-native-collateral-fit-for-etherfuses-q4-2026-chf-stablebond
 - Notes: One new finding; CHF-Stablebond↔CHFAU collateral fit is uncovered by the three existing AllUnity findings (which frame it as EUR/EURAU). Flagged the EUR-vs-CHF label discrepancy for resolution.
 
+## [2026-07-09] Probe · alula-finance
+
+- Pages produced (3): kyb-compliance-stack-is-a-sellable-product-and-acquisition-wedge, nigeria-cngn-is-a-repeated-inbound-demand-with-a-warm-intro-waiting, china-trade-sme-named-yield-accounts-are-a-wedge-only-etherfuse-can-fill
+- Notes: Focal entity (Alula) is a dead low-value lead; the real value in this neighborhood is in the KYB concept page + BeKey/bmoni transcripts + Shinhan deck, which surface compliance-as-product, a Nigeria/CNGN opening, and a China-trade SME account wedge.
+
+## [2026-07-09] Probe · amazon-mexico
+
+- Pages produced (1): amazon-mexico-is-a-dual-float-play-best-reached-through-a-treasury-orchestration-partner
+- Notes: Single medium-confidence finding; focal entity is low-trust and Mancio is early-stage, so framed as a channel/vertical thesis rather than an active deal.
+
+## [2026-07-09] Probe · amf-france
+
+- Pages produced (1): france-eu-entry-is-a-dlt-pilot-play-on-live-eurob-not-a-dasp-registration
+- Notes: One synthesis; the 'EUROB already live' angle overlaps partially with the existing Allfunds/Spain finding, so it is used here only as supporting evidence for the distinct DLT-Pilot-vs-DASP classification thesis.
+
