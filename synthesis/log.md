@@ -459,3 +459,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): france-eu-entry-is-a-dlt-pilot-play-on-live-eurob-not-a-dasp-registration
 - Notes: One synthesis; the 'EUROB already live' angle overlaps partially with the existing Allfunds/Spain finding, so it is used here only as supporting evidence for the distinct DLT-Pilot-vs-DASP classification thesis.
 
+## [2026-07-10] Probe · amundi
+
+- Pages produced (1): spiko-is-the-warm-bridge-to-amundi-europes-largest-asset-manager
+- Notes: One high-confidence-of-relevance finding; Amundi has zero existing findings so the Spiko-bridge synthesis is fully new. SAFO details rest on reported xscout sources — flagged in body.
+
+## [2026-07-10] Probe · an-ki-abogados
+
+- Pages produced (1): trademark-protection-covers-only-etherfuse-not-the-50-stablebond-product-brands
+- Notes: Single new synthesis; ties the narrow AN-KI trademark matter to the 50+ country product-brand roadmap and GTM reliance on product names. Framed as medium-confidence risk/easy-win pending confirmation that product names aren't already filed.
+
+## [2026-07-10] Probe · anchorage
+
+- Pages produced (3): western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager, live-cetes-on-anchorage-stellar-unlocks-the-banco-azteca-institutional-deal, anchorage-is-a-usd-settlement-bridge-not-a-non-usd-stablebond-distributor
+- Notes: Anchorage is fresh territory — existing findings run alphabetically only through 'allo'. Focused on the three highest-leverage cross-source links: USDPT/Western Union settlement, the Banco Azteca rail unlock, and the USD-only strategic constraint.
+
