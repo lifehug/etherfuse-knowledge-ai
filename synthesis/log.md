@@ -474,3 +474,18 @@ Chronological record of synthesis runs.
 - Pages produced (3): western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager, live-cetes-on-anchorage-stellar-unlocks-the-banco-azteca-institutional-deal, anchorage-is-a-usd-settlement-bridge-not-a-non-usd-stablebond-distributor
 - Notes: Anchorage is fresh territory — existing findings run alphabetically only through 'allo'. Focused on the three highest-leverage cross-source links: USDPT/Western Union settlement, the Banco Azteca rail unlock, and the USD-only strategic constraint.
 
+## [2026-07-11] Probe · anchorage-digital
+
+- Pages produced (2): anchorage-lead-with-non-usd-stablebonds-ustry-collides-with-openeden, anchorage-correspondent-banking-plus-etherfuse-local-stablebonds-is-a-central-asia-corridor-stack
+- Notes: Focused on two cross-source links absent from existing findings: OpenEden channel-conflict on USTRY, and Anchorage correspondent banking as the USD leg for Etherfuse's Central Asian bank pipeline.
+
+## [2026-07-11] Probe · anchorage-digital-bank
+
+- Pages produced (2): anchorage-correspondent-banking-is-the-usd-rail-for-etherfuses-central-asia-bank-pipeline, anchorage-backs-a-competitor-so-pitch-it-non-usd-not-ustry
+- Notes: Anchorage page is single-source/low-trust; both syntheses draw the non-obvious link from ecosystem intelligence + pipeline docs the Anchorage page never references. Confidence medium pending direct deal-scope confirmation.
+
+## [2026-07-11] Probe · ant-international
+
+- Pages produced (2): ant-tokenized-deposits-are-a-stablebond-reserve-engine-not-a-generic-distribution-channel, ant-is-a-mexico-origin-lead-being-worked-as-an-asia-conference-prospect
+- Notes: Focused on Ant's own stated 'tokenized deposits / Bettr Treasury' priority and its Mexico-origin — both under-exploited vs. the generic 'distribution channel' framing on the page.
+
