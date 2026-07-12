@@ -489,3 +489,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): ant-tokenized-deposits-are-a-stablebond-reserve-engine-not-a-generic-distribution-channel, ant-is-a-mexico-origin-lead-being-worked-as-an-asia-conference-prospect
 - Notes: Focused on Ant's own stated 'tokenized deposits / Bettr Treasury' priority and its Mexico-origin — both under-exploited vs. the generic 'distribution channel' framing on the page.
 
+## [2026-07-12] Probe · anthropic
+
+- Pages produced (1): anthropic-single-vendor-ai-dependency-has-a-proven-non-us-kill-switch
+- Notes: Neighborhood is thin for revenue synthesis — most large docs (AirTM JV, Allaria, Brazil, Korea, Mastercard) are graph neighbors but not meaningfully Anthropic-linked. Only one genuinely new, multi-source, non-obvious connection surfaced.
+
+## [2026-07-12] Probe · anuarbek-kainazarov
+
+- Pages produced (2): kazakhstan-freight-corridor-is-a-ready-fx-vertical-hiding-in-the-logistics-thread, kzt-stablebond-is-the-highest-margin-product-in-the-entire-roster
+- Notes: Two new angles from the Kazakhstan/anuarbek neighborhood not in existing findings: (1) freight-FX vertical hidden in the logistics thread, (2) KZT's 17–18% yield as top-tier margin economics.
+
+## [2026-07-12] Probe · ao-micro-credit
+
+- Pages produced (1): ao-is-a-us-person-reg-s-problem-hiding-a-200m-treasury-float
+- Notes: One synthesis; AO is single-sourced/thin, so confidence capped at medium. The US-person Reg-S risk is inferred from the 'US-based' descriptor plus overview.md's Reg-S note.
+
