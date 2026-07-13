@@ -7,6 +7,7 @@
 - [3Iq Is The Fund Wrapper For The Stablebond Index Nic Already Requested](3iq-is-the-fund-wrapper-for-the-stablebond-index-nic-already-requested.md)
 - [9 Dots Opens A Commodity Exporter Treasury Vertical Via Oro](9-dots-opens-a-commodity-exporter-treasury-vertical-via-oro.md)
 - [Aaro Is Lp Capital For The Stablebond Index Fund Not Another Wrapper](aaro-is-lp-capital-for-the-stablebond-index-fund-not-another-wrapper.md)
+- [Abn Amro Closes Eurobs Missing Aaa Leg And Opens The Mica Door](abn-amro-closes-eurobs-missing-aaa-leg-and-opens-the-mica-door.md)
 - [Abound Inr Offshore Issuance Should Ride Etherfuses Bermuda License Not A New Vehicle](abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle.md)
 - [Abound Is Ready Distribution For The Planned Indtb Stablebond](abound-is-ready-distribution-for-the-planned-indtb-stablebond.md)
 - [Abound Off Ramp Float Is An Immediate Ustry Customer Before Indtb Ships](abound-off-ramp-float-is-an-immediate-ustry-customer-before-indtb-ships.md)
@@ -37,6 +38,8 @@
 - [Aix Is A Regulated Retail Listing Venue For Stablebonds In Central Asia](aix-is-a-regulated-retail-listing-venue-for-stablebonds-in-central-asia.md)
 - [Aix Is The Tradfi Capital Rail Kase Cannot Reach](aix-is-the-tradfi-capital-rail-kase-cannot-reach.md)
 - [Aix Shanghai Cross Listing Is The Institutional China Corridor Freedom Couldnt Open At Retail](aix-shanghai-cross-listing-is-the-institutional-china-corridor-freedom-couldnt-open-at-retail.md)
+- [Akbank Primary Dealer Status Collapses Turkeys Custody Blocker And Opens The Tokenize Your Own Issuances Upsell](akbank-primary-dealer-status-collapses-turkeys-custody-blocker-and-opens-the-tokenize-your-own-issuances-upsell.md)
+- [Al Rajhi Is The Saudi Anchor For An Already Scheduled Sautb Not A Cold Research Target](al-rajhi-is-the-saudi-anchor-for-an-already-scheduled-sautb-not-a-cold-research-target.md)
 - [Alatau City Bank Is The Unclaimed Second Kz Rail That Answers Nics Concentration Objection](alatau-city-bank-is-the-unclaimed-second-kz-rail-that-answers-nics-concentration-objection.md)
 - [Albo Is A Visa Card Float And Consumer Balance Yield Play Not A Cold Savings Pitch](albo-is-a-visa-card-float-and-consumer-balance-yield-play-not-a-cold-savings-pitch.md)
 - [Alfred Argentina Vasp And Colombia Are Ready Ramps For Etherfuses Next Issuances](alfred-argentina-vasp-and-colombia-are-ready-ramps-for-etherfuses-next-issuances.md)
@@ -169,5 +172,5 @@
 - [Western Union Usdpt Mxn Offramp Is The Whale In The Anchorage One Pager](western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager.md)
 
 ---
-*Last synthesized: 2026-07-12*
+*Last synthesized: 2026-07-13*
 

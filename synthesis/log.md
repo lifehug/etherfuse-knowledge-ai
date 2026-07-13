@@ -504,3 +504,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): ao-is-a-us-person-reg-s-problem-hiding-a-200m-treasury-float
 - Notes: One synthesis; AO is single-sourced/thin, so confidence capped at medium. The US-person Reg-S risk is inferred from the 'US-based' descriptor plus overview.md's Reg-S note.
 
+## [2026-07-13] Probe · abn-amro
+
+- Pages produced (1): abn-amro-closes-eurobs-missing-aaa-leg-and-opens-the-mica-door
+- Notes: One synthesis: EUROB's authoritative basket omits AAA Netherlands, and ABN AMRO is both the primary-dealer sourcing route and a DNB/MiCA regulatory door — neither stated on the ABN AMRO page.
+
+## [2026-07-13] Probe · akbank
+
+- Pages produced (1): akbank-primary-dealer-status-collapses-turkeys-custody-blocker-and-opens-the-tokenize-your-own-issuances-upsell
+- Notes: One high-confidence synthesis; Akbank neighborhood is thin (low-trust page, 2 sources) so did not force additional findings.
+
+## [2026-07-13] Probe · al-rajhi-bank
+
+- Pages produced (1): al-rajhi-is-the-saudi-anchor-for-an-already-scheduled-sautb-not-a-cold-research-target
+- Notes: One high-conviction synthesis; the primary-dealer→upsell pattern overlaps the existing Akbank finding but here it converges with SAUTB roadmap timing, live SAR flows, and AIFC passporting into a concrete Saudi entry package no page states.
+
