@@ -519,3 +519,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): al-rajhi-is-the-saudi-anchor-for-an-already-scheduled-sautb-not-a-cold-research-target
 - Notes: One high-conviction synthesis; the primary-dealer→upsell pattern overlaps the existing Akbank finding but here it converges with SAUTB roadmap timing, live SAR flows, and AIFC passporting into a concrete Saudi entry package no page states.
 
+## [2026-07-14] Probe · allaria
+
+- Pages produced (1): allaria-is-a-tokenize-your-own-issuances-upsell-and-retail-channel-not-just-cie-custody
+- Notes: One finding; declined to synthesize the Argentina capital-control/FX-arbitrage angle (FMCG Africa case study) as it is about the product, not Allaria specifically.
+
+## [2026-07-14] Probe · ao-microcredit
+
+- Pages produced (1): ao-is-the-proven-smb-lender-reserve-yield-vertical-mis-scoped-as-a-collateral-experiment
+- Notes: One synthesis; the David Yao/tennis warm-intro and stale-lead risk overlap existing follow-up-framework findings and weren't worth a separate page.
+
+## [2026-07-14] Probe · aplazo
+
+- Pages produced (2): aplazo-lead-contradiction-is-already-resolved-by-bandos-own-scope-rules, aplazo-is-an-mxne-checkout-distribution-channel-not-just-a-float-yield-customer
+- Notes: Two findings: one high-confidence contradiction resolution using Bando's own scope rules; one medium-confidence reframe of Aplazo from float-yield lead to MXNe distribution partner.
+
