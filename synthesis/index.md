@@ -77,6 +77,8 @@
 - [Aplazo Handoff To Bando Sits On A Broken Onboarding Rail](aplazo-handoff-to-bando-sits-on-a-broken-onboarding-rail.md)
 - [Aplazo Is An Mxne Checkout Distribution Channel Not Just A Float Yield Customer](aplazo-is-an-mxne-checkout-distribution-channel-not-just-a-float-yield-customer.md)
 - [Aplazo Lead Contradiction Is Already Resolved By Bandos Own Scope Rules](aplazo-lead-contradiction-is-already-resolved-by-bandos-own-scope-rules.md)
+- [Appworks Is The Warm Inbound That Assembles The Entire Taiwan Twd Launch Package](appworks-is-the-warm-inbound-that-assembles-the-entire-taiwan-twd-launch-package.md)
+- [Aptos Grant Should Be A Polygon Style Liquidity Deal Not A Cost Offset](aptos-grant-should-be-a-polygon-style-liquidity-deal-not-a-cost-offset.md)
 - [Aptos Run The Monad Playbook On A Mis Staged Relationship](aptos-run-the-monad-playbook-on-a-mis-staged-relationship.md)
 - [Aqex Negative Fee Model Is A Stablebond Yield Venue Not A Waste Of Time](aqex-negative-fee-model-is-a-stablebond-yield-venue-not-a-waste-of-time.md)
 - [Argentina Stacked Demand Missing From Bond Roadmap](argentina-stacked-demand-missing-from-bond-roadmap.md)
@@ -100,6 +102,7 @@
 - [China Trade Sme Named Yield Accounts Are A Wedge Only Etherfuse Can Fill](china-trade-sme-named-yield-accounts-are-a-wedge-only-etherfuse-can-fill.md)
 - [Circle Is The Shared Stakeholder That De Risks The Abound India Usdc Corridor](circle-is-the-shared-stakeholder-that-de-risks-the-abound-india-usdc-corridor.md)
 - [Circle Mint Plus Tether Mint Provisioning Is An Unnamed Productline](circle-mint-plus-tether-mint-provisioning-is-an-unnamed-productline.md)
+- [Close Aptos With The Monad Grant Template Not A New Gtm Deck](close-aptos-with-the-monad-grant-template-not-a-new-gtm-deck.md)
 - [Coinbase Eur Gbp Rails Close The Eurob Gilts Fiat Ramp Gap](coinbase-eur-gbp-rails-close-the-eurob-gilts-fiat-ramp-gap.md)
 - [Colombia Cop Launch Has A Three Partner Demand Cohort And One Missing Rail Bre B](colombia-cop-launch-has-a-three-partner-demand-cohort-and-one-missing-rail-bre-b.md)
 - [Colombia Is An Unbuilt Market With Stacked Partner Demand](colombia-is-an-unbuilt-market-with-stacked-partner-demand.md)
@@ -176,5 +179,5 @@
 - [Western Union Usdpt Mxn Offramp Is The Whale In The Anchorage One Pager](western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager.md)
 
 ---
-*Last synthesized: 2026-07-14*
+*Last synthesized: 2026-07-15*
 

@@ -534,3 +534,18 @@ Chronological record of synthesis runs.
 - Pages produced (2): aplazo-lead-contradiction-is-already-resolved-by-bandos-own-scope-rules, aplazo-is-an-mxne-checkout-distribution-channel-not-just-a-float-yield-customer
 - Notes: Two findings: one high-confidence contradiction resolution using Bando's own scope rules; one medium-confidence reframe of Aplazo from float-yield lead to MXNe distribution partner.
 
+## [2026-07-15] Probe · appworks
+
+- Pages produced (1): appworks-is-the-warm-inbound-that-assembles-the-entire-taiwan-twd-launch-package
+- Notes: One finding; AppWorks neighborhood is thin (single low-trust source) but the roadmap link to TAIWTB Q4 2026 makes the Taiwan-entry synthesis high-value.
+
+## [2026-07-15] Probe · aptos
+
+- Pages produced (1): close-aptos-with-the-monad-grant-template-not-a-new-gtm-deck
+- Notes: One focused finding; the broader 'L1 foundations pay to onboard Etherfuse' motion in this slice reduces to Monad→Aptos, so kept as a single decision-useful page rather than an abstract second page.
+
+## [2026-07-15] Probe · aptos-foundation
+
+- Pages produced (1): aptos-grant-should-be-a-polygon-style-liquidity-deal-not-a-cost-offset
+- Notes: Single reframe: Aptos stalled deal should be pursued as a funded liquidity/GTM commitment on the Polygon $7.5M precedent, not a cost-offset grant blocked by a bad email.
+
