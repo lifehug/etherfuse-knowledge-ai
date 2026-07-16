@@ -549,3 +549,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): aptos-grant-should-be-a-polygon-style-liquidity-deal-not-a-cost-offset
 - Notes: Single reframe: Aptos stalled deal should be pursued as a funded liquidity/GTM commitment on the Polygon $7.5M precedent, not a cost-offset grant blocked by a bad email.
 
+## [2026-07-16] Probe · aqex
+
+- Pages produced (1): aqex-negative-fee-model-structurally-requires-stablebond-yield-not-a-waste-of-time
+- Notes: One synthesis; Aqex page is low-trust so confidence capped at medium. Deliberately positioned as complementary to (not a restatement of) the existing on-chain FX-marketplace findings.
+
+## [2026-07-16] Probe · arbitrum
+
+- Pages produced (2): arbitrum-1m-is-foundation-funded-l2-entry-dying-on-non-response, iexec-privacy-layer-is-the-unlock-for-the-100b-korea-derivatives-collateral-play
+- Notes: Two findings: Arbitrum as a ghosted foundation-funded L2 entry (deployable via Brale/MXNe + Polygon template), and iExec repositioned as the privacy enabler for the $100B Shinhan AM derivatives-collateral play.
+
+## [2026-07-16] Probe · arch-finance
+
+- Pages produced (1): arch-finance-dolar-plus-is-a-ustry-reserve-leg-and-full-roster-robo-channel
+- Notes: Arch neighborhood is thin (single research note); one medium-confidence reframing surfaced. Argentina issuance roadmap not confirmable from these sources, so ARS-Stablebond angle deliberately omitted.
+

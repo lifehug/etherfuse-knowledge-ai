@@ -81,6 +81,9 @@
 - [Aptos Grant Should Be A Polygon Style Liquidity Deal Not A Cost Offset](aptos-grant-should-be-a-polygon-style-liquidity-deal-not-a-cost-offset.md)
 - [Aptos Run The Monad Playbook On A Mis Staged Relationship](aptos-run-the-monad-playbook-on-a-mis-staged-relationship.md)
 - [Aqex Negative Fee Model Is A Stablebond Yield Venue Not A Waste Of Time](aqex-negative-fee-model-is-a-stablebond-yield-venue-not-a-waste-of-time.md)
+- [Aqex Negative Fee Model Structurally Requires Stablebond Yield Not A Waste Of Time](aqex-negative-fee-model-structurally-requires-stablebond-yield-not-a-waste-of-time.md)
+- [Arbitrum 1M Is Foundation Funded L2 Entry Dying On Non Response](arbitrum-1m-is-foundation-funded-l2-entry-dying-on-non-response.md)
+- [Arch Finance Dolar Plus Is A Ustry Reserve Leg And Full Roster Robo Channel](arch-finance-dolar-plus-is-a-ustry-reserve-leg-and-full-roster-robo-channel.md)
 - [Argentina Stacked Demand Missing From Bond Roadmap](argentina-stacked-demand-missing-from-bond-roadmap.md)
 - [Astana Finance Days Is A Ready Made Launch Stage For The Whole Kz Partner Cluster](astana-finance-days-is-a-ready-made-launch-stage-for-the-whole-kz-partner-cluster.md)
 - [Bareksa Is The Ready Made Indsun Distributor Hiding In Aftechs Membership](bareksa-is-the-ready-made-indsun-distributor-hiding-in-aftechs-membership.md)
@@ -126,6 +129,7 @@
 - [Georgia Is Inbound Government Demand With A Ready Halyk Custody Path](georgia-is-inbound-government-demand-with-a-ready-halyk-custody-path.md)
 - [Government Tokenization Wave Is White Label Tam](government-tokenization-wave-is-white-label-tam.md)
 - [Halyk Is A White Label Issuer Not Just A Custodian](halyk-is-a-white-label-issuer-not-just-a-custodian.md)
+- [Iexec Privacy Layer Is The Unlock For The 100B Korea Derivatives Collateral Play](iexec-privacy-layer-is-the-unlock-for-the-100b-korea-derivatives-collateral-play.md)
 - [Ifpe License Is The Missing Rail Under Mexicos Virtual Account Products](ifpe-license-is-the-missing-rail-under-mexicos-virtual-account-products.md)
 - [Institutional Stablecoin Stack Is A Higher Acv Product Than Stablebonds](institutional-stablecoin-stack-is-a-higher-acv-product-than-stablebonds.md)
 - [Insured Custody Closes Institutional Deals](insured-custody-closes-institutional-deals.md)
@@ -179,5 +183,5 @@
 - [Western Union Usdpt Mxn Offramp Is The Whale In The Anchorage One Pager](western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager.md)
 
 ---
-*Last synthesized: 2026-07-15*
+*Last synthesized: 2026-07-16*
 
