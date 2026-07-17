@@ -564,3 +564,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): arch-finance-dolar-plus-is-a-ustry-reserve-leg-and-full-roster-robo-channel
 - Notes: Arch neighborhood is thin (single research note); one medium-confidence reframing surfaced. Argentina issuance roadmap not confirmable from these sources, so ARS-Stablebond angle deliberately omitted.
 
+## [2026-07-17] Probe · archax
+
+- Pages produced (2): canton-network-is-the-institutional-rail-etherfuses-custodian-and-two-biggest-prospects-already-share, archax-active-aptos-partnership-is-a-warm-re-entry-for-etherfuses-stalled-aptos-lead
+- Notes: Canton convergence is the standout (impact×speed high, ease gated on engineering). Archax→Aptos is a lower-cost warm-intro play.
+
+## [2026-07-17] Probe · ark-investment
+
+- Pages produced (1): ark-is-thesis-aligned-series-b-capital-not-a-cold-wishlist-prospect
+- Notes: One synthesis: connects the dead Ark wishlist page to ARK's own published $11T RWA thesis (sovereign-debt.md) and the in-flight customer-led Series B (NIC NBK meeting). Distribution angle deliberately down-weighted due to US Reg-S restrictions.
+
+## [2026-07-17] Probe · arq-dolarapp
+
+- Pages produced (1): arq-dolarapp-is-a-white-label-cetes-tesouro-customer-not-a-competitor-to-monitor
+- Notes: One synthesis; ARQ's exact Brazil settlement model is unverified, so the Resolution 561 leg is framed conditionally.
+

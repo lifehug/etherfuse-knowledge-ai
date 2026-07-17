@@ -84,7 +84,10 @@
 - [Aqex Negative Fee Model Structurally Requires Stablebond Yield Not A Waste Of Time](aqex-negative-fee-model-structurally-requires-stablebond-yield-not-a-waste-of-time.md)
 - [Arbitrum 1M Is Foundation Funded L2 Entry Dying On Non Response](arbitrum-1m-is-foundation-funded-l2-entry-dying-on-non-response.md)
 - [Arch Finance Dolar Plus Is A Ustry Reserve Leg And Full Roster Robo Channel](arch-finance-dolar-plus-is-a-ustry-reserve-leg-and-full-roster-robo-channel.md)
+- [Archax Active Aptos Partnership Is A Warm Re Entry For Etherfuses Stalled Aptos Lead](archax-active-aptos-partnership-is-a-warm-re-entry-for-etherfuses-stalled-aptos-lead.md)
 - [Argentina Stacked Demand Missing From Bond Roadmap](argentina-stacked-demand-missing-from-bond-roadmap.md)
+- [Ark Is Thesis Aligned Series B Capital Not A Cold Wishlist Prospect](ark-is-thesis-aligned-series-b-capital-not-a-cold-wishlist-prospect.md)
+- [Arq Dolarapp Is A White Label Cetes Tesouro Customer Not A Competitor To Monitor](arq-dolarapp-is-a-white-label-cetes-tesouro-customer-not-a-competitor-to-monitor.md)
 - [Astana Finance Days Is A Ready Made Launch Stage For The Whole Kz Partner Cluster](astana-finance-days-is-a-ready-made-launch-stage-for-the-whole-kz-partner-cluster.md)
 - [Bareksa Is The Ready Made Indsun Distributor Hiding In Aftechs Membership](bareksa-is-the-ready-made-indsun-distributor-hiding-in-aftechs-membership.md)
 - [Bbva Convert Custodian Before Ave Bill](bbva-convert-custodian-before-ave-bill.md)
@@ -98,6 +101,7 @@
 - [Brle Sovereign Coin Is Named Demand Clone The Mxne Model On Tesouro](brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro.md)
 - [Brogan Law Is Doubling As Etherfuses Warm Intro Engine](brogan-law-is-doubling-as-etherfuses-warm-intro-engine.md)
 - [Build The Institutional Dd Pack Once The Same Questions Recur Across Every Deal](build-the-institutional-dd-pack-once-the-same-questions-recur-across-every-deal.md)
+- [Canton Network Is The Institutional Rail Etherfuses Custodian And Two Biggest Prospects Already Share](canton-network-is-the-institutional-rail-etherfuses-custodian-and-two-biggest-prospects-already-share.md)
 - [Cdmx Event Circuit Is An Untracked Co Marketing Funnel](cdmx-event-circuit-is-an-untracked-co-marketing-funnel.md)
 - [Cetes Custodians Are Untapped Retail Distribution For The 2Pct Problem](cetes-custodians-are-untapped-retail-distribution-for-the-2pct-problem.md)
 - [Cetes Custody Dd Copy Drops A Custodian And Asserts Unverified Quality](cetes-custody-dd-copy-drops-a-custodian-and-asserts-unverified-quality.md)
@@ -183,5 +187,5 @@
 - [Western Union Usdpt Mxn Offramp Is The Whale In The Anchorage One Pager](western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager.md)
 
 ---
-*Last synthesized: 2026-07-16*
+*Last synthesized: 2026-07-17*
 
