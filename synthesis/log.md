@@ -579,3 +579,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): arq-dolarapp-is-a-white-label-cetes-tesouro-customer-not-a-competitor-to-monitor
 - Notes: One synthesis; ARQ's exact Brazil settlement model is unverified, so the Resolution 561 leg is framed conditionally.
 
+## [2026-07-18] Probe · arq-finance
+
+- Pages produced (3): arq-is-a-four-market-play-and-brazils-tesouro-is-the-real-hook-not-the-mxn-only-proposal, arqs-requested-regulatory-pack-already-exists-as-the-maimone-20-question-response, arqs-card-collateral-thread-is-the-visa-local-issuer-playbook-florencia-already-opened-the-door
+- Notes: Three ARQ-specific syntheses: (1) MXN-only proposal buries the four-market/Brazil-TESOURO opportunity; (2) requested regulatory pack already exists in the Maimone Q&A; (3) the card-collateral thread is the documented Visa playbook. All treat ARQ as a reactivation of a 2M-customer, $10B-volume account.
+
+## [2026-07-18] Probe · ashpool
+
+- Pages produced (2): nigeria-ngn-launch-has-demand-distribution-issuer-and-offramp-already-assembled, china-mexico-trade-smes-are-a-yield-differentiated-account-vertical-bitso-cant-serve
+- Notes: Focal (Ashpool) is a dead/unidentifiable lead with no synthesizable value; findings drawn from higher-value convergences in the surrounding neighborhood (Nigeria launch stack; China–Mexico SME accounts).
+
+## [2026-07-18] Probe · asmara-holding-group
+
+- Pages produced (2): asmara-is-a-multi-currency-holding-group-treasury-template-not-an-open-question, arturo-lujan-real-value-may-be-as-a-monad-ecosystem-connector
+- Notes: Focal page is a near-empty stub (trust_level low); syntheses lean on the surrounding case-study library and are scoped accordingly. Second page is deliberately low-confidence — no corroborating Monad/Lotus pages in this slice.
+
