@@ -93,6 +93,9 @@
 - [Arqs Requested Regulatory Pack Already Exists As The Maimone 20 Question Response](arqs-requested-regulatory-pack-already-exists-as-the-maimone-20-question-response.md)
 - [Arturo Lujan Real Value May Be As A Monad Ecosystem Connector](arturo-lujan-real-value-may-be-as-a-monad-ecosystem-connector.md)
 - [Asmara Is A Multi Currency Holding Group Treasury Template Not An Open Question](asmara-is-a-multi-currency-holding-group-treasury-template-not-an-open-question.md)
+- [Assetto Founders Are The Anchor Etherfuse Needs For Both Aptos And Movement](assetto-founders-are-the-anchor-etherfuse-needs-for-both-aptos-and-movement.md)
+- [Assetto Is The Live Venue The Stalled Non Usd Fx Marketplace Needs](assetto-is-the-live-venue-the-stalled-non-usd-fx-marketplace-needs.md)
+- [Assetto Is The Proven Venue Builder The Stalled Non Usd Fx Marketplace Lacks](assetto-is-the-proven-venue-builder-the-stalled-non-usd-fx-marketplace-lacks.md)
 - [Astana Finance Days Is A Ready Made Launch Stage For The Whole Kz Partner Cluster](astana-finance-days-is-a-ready-made-launch-stage-for-the-whole-kz-partner-cluster.md)
 - [Bareksa Is The Ready Made Indsun Distributor Hiding In Aftechs Membership](bareksa-is-the-ready-made-indsun-distributor-hiding-in-aftechs-membership.md)
 - [Bbva Convert Custodian Before Ave Bill](bbva-convert-custodian-before-ave-bill.md)
@@ -135,6 +138,7 @@
 - [Four Mexican Custodians Already Answer Nic Nbks Concentration Risk Objection](four-mexican-custodians-already-answer-nic-nbks-concentration-risk-objection.md)
 - [France Eu Entry Is A Dlt Pilot Play On Live Eurob Not A Dasp Registration](france-eu-entry-is-a-dlt-pilot-play-on-live-eurob-not-a-dasp-registration.md)
 - [France Oat Needs No Aft Just Spiko And Dasp](france-oat-needs-no-aft-just-spiko-and-dasp.md)
+- [Fund Assettos Launch From Stacked Ecosystem Grants Not Its Capital Raise](fund-assettos-launch-from-stacked-ecosystem-grants-not-its-capital-raise.md)
 - [Gbp Stablecoin Reserve Demand Sell Gilts Dont Cross Promote](gbp-stablecoin-reserve-demand-sell-gilts-dont-cross-promote.md)
 - [Georgia Is Inbound Government Demand With A Ready Halyk Custody Path](georgia-is-inbound-government-demand-with-a-ready-halyk-custody-path.md)
 - [Government Tokenization Wave Is White Label Tam](government-tokenization-wave-is-white-label-tam.md)
@@ -194,5 +198,5 @@
 - [Western Union Usdpt Mxn Offramp Is The Whale In The Anchorage One Pager](western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager.md)
 
 ---
-*Last synthesized: 2026-07-18*
+*Last synthesized: 2026-07-19*
 

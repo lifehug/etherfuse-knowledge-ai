@@ -594,3 +594,13 @@ Chronological record of synthesis runs.
 - Pages produced (2): asmara-is-a-multi-currency-holding-group-treasury-template-not-an-open-question, arturo-lujan-real-value-may-be-as-a-monad-ecosystem-connector
 - Notes: Focal page is a near-empty stub (trust_level low); syntheses lean on the surrounding case-study library and are scoped accordingly. Second page is deliberately low-confidence — no corroborating Monad/Lotus pages in this slice.
 
+## [2026-07-19] Probe · assetto
+
+- Pages produced (1): assetto-is-the-proven-venue-builder-the-stalled-non-usd-fx-marketplace-lacks
+- Notes: One synthesis; Assetto's Andy ownership + proven DEX/money-market track record connects it to the existing non-USD FX-marketplace cluster finding and the Loopscale/DeFi-collateral lending precedent.
+
+## [2026-07-19] Probe · assetto-precept-labs
+
+- Pages produced (3): assetto-founders-are-the-anchor-etherfuse-needs-for-both-aptos-and-movement, fund-assettos-launch-from-stacked-ecosystem-grants-not-its-capital-raise, assetto-is-the-live-venue-the-stalled-non-usd-fx-marketplace-needs
+- Notes: Focal Assetto sits at the intersection of two chain deals (Aptos/Movement), three grant pools (Solana/Stellar/Movement), and the Salcedo-owned non-USD FX marketplace cluster — the three syntheses above exploit each. Avoided restating the existing 0.xyz closed-hours-buffer finding.
+
