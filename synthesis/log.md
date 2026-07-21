@@ -604,3 +604,18 @@ Chronological record of synthesis runs.
 - Pages produced (3): assetto-founders-are-the-anchor-etherfuse-needs-for-both-aptos-and-movement, fund-assettos-launch-from-stacked-ecosystem-grants-not-its-capital-raise, assetto-is-the-live-venue-the-stalled-non-usd-fx-marketplace-needs
 - Notes: Focal Assetto sits at the intersection of two chain deals (Aptos/Movement), three grant pools (Solana/Stellar/Movement), and the Salcedo-owned non-USD FX marketplace cluster — the three syntheses above exploit each. Avoided restating the existing 0.xyz closed-hours-buffer finding.
 
+## [2026-07-21] Probe · aib
+
+- Pages produced (1): aib-goodbody-is-a-mica-passportable-retail-channel-for-live-eurob-not-a-cold-blockchain-lab
+- Notes: One high-confidence-adjacent synthesis; declined to force a second (Ireland-fund-domicile index wrapper) because Goodbody is wealth management, not fund admin, and the source support was too thin.
+
+## [2026-07-21] Probe · astana-international-financial-centre
+
+- Pages produced (3): aifc-english-law-ring-fence-upgrades-the-1-institutional-dd-talking-point, aifc-gcc-passport-also-opens-a-proven-corporate-fx-treasury-vertical-not-only-bond-issuance, aifc-awards-2026-is-a-near-zero-cost-public-signal-for-freedoms-regulatory-endorsement-precondition
+- Notes: Focused on 3 non-obvious cross-source links not in existing findings; the AIFC neighborhood is heavily synthesized already, so ranked for institutional-DD impact (ring-fence), new revenue vertical (GCC FX/treasury), and an easy win (awards→Freedom).
+
+## [2026-07-21] Probe · asterium
+
+- Pages produced (1): asterium-is-the-custody-leg-for-a-uzbekistan-launch-the-ceo-already-committed-to-nbk
+- Notes: One synthesis; the frontier-remittance template link (IBT Tajikistan → Uzbekistan) was left out for lack of Uzbekistan remittance data in the slice.
+
