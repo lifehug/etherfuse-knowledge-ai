@@ -619,3 +619,18 @@ Chronological record of synthesis runs.
 - Pages produced (1): asterium-is-the-custody-leg-for-a-uzbekistan-launch-the-ceo-already-committed-to-nbk
 - Notes: One synthesis; the frontier-remittance template link (IBT Tajikistan → Uzbekistan) was left out for lack of Uzbekistan remittance data in the slice.
 
+## [2026-07-22] Probe · atfx
+
+- Pages produced (1): atfx-is-a-margin-collateral-play-not-an-fx-collaboration
+- Notes: Only one finding warranted — the ATFX page is thin (one phone call, low trust) but the cross-source margin-collateral thesis is genuinely new and connects four distinct source documents.
+
+## [2026-07-22] Probe · australian-office-of-financial-management
+
+- Pages produced (3): standard-chartered-likely-closes-australias-custody-gap-through-an-existing-negotiation, aaa-australian-cgs-is-the-credit-anchor-the-stablebond-index-needs, australia-has-fewer-launch-barriers-than-actively-pursued-frontier-markets
+- Notes: All three findings center on Australia being under-prioritized relative to its structural readiness. The neighborhood is thin on source material (1 research file drives most claims), so confidence is capped.
+
+## [2026-07-22] Probe · australian-securities-and-investments-commission
+
+- Pages produced (3): australia-is-the-only-aaa-market-with-zero-aud-stablecoin-competition-and-the-mxne-template-is-ready, asic-tokenization-consultation-is-the-cnbv-moat-playbook-and-the-window-is-open-now, asx-chess-blockchain-failure-means-australia-custody-answer-is-broker-dealers-not-the-csd
+- Notes: Avoided restating the existing finding about AAA CGS as credit anchor for the Stablebond index. Focused on three operationally distinct angles: stablecoin greenfield, regulatory moat replication, and custody partner identification.
+

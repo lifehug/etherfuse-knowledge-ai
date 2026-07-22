@@ -6,6 +6,7 @@
 - [1Money Hsbc Virtual Accounts Complete Us Market Unlock](1money-hsbc-virtual-accounts-complete-us-market-unlock.md)
 - [3Iq Is The Fund Wrapper For The Stablebond Index Nic Already Requested](3iq-is-the-fund-wrapper-for-the-stablebond-index-nic-already-requested.md)
 - [9 Dots Opens A Commodity Exporter Treasury Vertical Via Oro](9-dots-opens-a-commodity-exporter-treasury-vertical-via-oro.md)
+- [Aaa Australian Cgs Is The Credit Anchor The Stablebond Index Needs](aaa-australian-cgs-is-the-credit-anchor-the-stablebond-index-needs.md)
 - [Aaro Is Lp Capital For The Stablebond Index Fund Not Another Wrapper](aaro-is-lp-capital-for-the-stablebond-index-fund-not-another-wrapper.md)
 - [Abn Amro Closes Eurobs Missing Aaa Leg And Opens The Mica Door](abn-amro-closes-eurobs-missing-aaa-leg-and-opens-the-mica-door.md)
 - [Abound Inr Offshore Issuance Should Ride Etherfuses Bermuda License Not A New Vehicle](abound-inr-offshore-issuance-should-ride-etherfuses-bermuda-license-not-a-new-vehicle.md)
@@ -96,12 +97,17 @@
 - [Arqs Card Collateral Thread Is The Visa Local Issuer Playbook Florencia Already Opened The Door](arqs-card-collateral-thread-is-the-visa-local-issuer-playbook-florencia-already-opened-the-door.md)
 - [Arqs Requested Regulatory Pack Already Exists As The Maimone 20 Question Response](arqs-requested-regulatory-pack-already-exists-as-the-maimone-20-question-response.md)
 - [Arturo Lujan Real Value May Be As A Monad Ecosystem Connector](arturo-lujan-real-value-may-be-as-a-monad-ecosystem-connector.md)
+- [Asic Tokenization Consultation Is The Cnbv Moat Playbook And The Window Is Open Now](asic-tokenization-consultation-is-the-cnbv-moat-playbook-and-the-window-is-open-now.md)
 - [Asmara Is A Multi Currency Holding Group Treasury Template Not An Open Question](asmara-is-a-multi-currency-holding-group-treasury-template-not-an-open-question.md)
 - [Assetto Founders Are The Anchor Etherfuse Needs For Both Aptos And Movement](assetto-founders-are-the-anchor-etherfuse-needs-for-both-aptos-and-movement.md)
 - [Assetto Is The Live Venue The Stalled Non Usd Fx Marketplace Needs](assetto-is-the-live-venue-the-stalled-non-usd-fx-marketplace-needs.md)
 - [Assetto Is The Proven Venue Builder The Stalled Non Usd Fx Marketplace Lacks](assetto-is-the-proven-venue-builder-the-stalled-non-usd-fx-marketplace-lacks.md)
 - [Astana Finance Days Is A Ready Made Launch Stage For The Whole Kz Partner Cluster](astana-finance-days-is-a-ready-made-launch-stage-for-the-whole-kz-partner-cluster.md)
 - [Asterium Is The Custody Leg For A Uzbekistan Launch The Ceo Already Committed To Nbk](asterium-is-the-custody-leg-for-a-uzbekistan-launch-the-ceo-already-committed-to-nbk.md)
+- [Asx Chess Blockchain Failure Means Australia Custody Answer Is Broker Dealers Not The Csd](asx-chess-blockchain-failure-means-australia-custody-answer-is-broker-dealers-not-the-csd.md)
+- [Atfx Is A Margin Collateral Play Not An Fx Collaboration](atfx-is-a-margin-collateral-play-not-an-fx-collaboration.md)
+- [Australia Has Fewer Launch Barriers Than Actively Pursued Frontier Markets](australia-has-fewer-launch-barriers-than-actively-pursued-frontier-markets.md)
+- [Australia Is The Only Aaa Market With Zero Aud Stablecoin Competition And The Mxne Template Is Ready](australia-is-the-only-aaa-market-with-zero-aud-stablecoin-competition-and-the-mxne-template-is-ready.md)
 - [Bareksa Is The Ready Made Indsun Distributor Hiding In Aftechs Membership](bareksa-is-the-ready-made-indsun-distributor-hiding-in-aftechs-membership.md)
 - [Bbva Convert Custodian Before Ave Bill](bbva-convert-custodian-before-ave-bill.md)
 - [Bbva Foreign Isin Registration Is The Offshore Backing For Abounds Inr Product](bbva-foreign-isin-registration-is-the-offshore-backing-for-abounds-inr-product.md)
@@ -192,6 +198,7 @@
 - [Sports Events Agencies Are A Repeatable Latam Fx Vertical Via Transfero](sports-events-agencies-are-a-repeatable-latam-fx-vertical-via-transfero.md)
 - [Stablebonds Are The Yield Engine For Issuers Banned From Paying Yield](stablebonds-are-the-yield-engine-for-issuers-banned-from-paying-yield.md)
 - [Stablecoin Frontiers Cohort Is A Non Usd Issuer Reserve Pipeline](stablecoin-frontiers-cohort-is-a-non-usd-issuer-reserve-pipeline.md)
+- [Standard Chartered Likely Closes Australias Custody Gap Through An Existing Negotiation](standard-chartered-likely-closes-australias-custody-gap-through-an-existing-negotiation.md)
 - [Tala Mxne Revshare Is The Ready Template For Addi](tala-mxne-revshare-is-the-ready-template-for-addi.md)
 - [The 36 Percent Mexican Interest Tax Is An Unsold Offshore Treasury Wedge](the-36-percent-mexican-interest-tax-is-an-unsold-offshore-treasury-wedge.md)
 - [Times Of India Is Either The Biggest India Distribution Channel Or A Phantom Partner](times-of-india-is-either-the-biggest-india-distribution-channel-or-a-phantom-partner.md)
@@ -203,5 +210,5 @@
 - [Western Union Usdpt Mxn Offramp Is The Whale In The Anchorage One Pager](western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager.md)
 
 ---
-*Last synthesized: 2026-07-21*
+*Last synthesized: 2026-07-22*
 
