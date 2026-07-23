@@ -634,3 +634,18 @@ Chronological record of synthesis runs.
 - Pages produced (3): australia-is-the-only-aaa-market-with-zero-aud-stablecoin-competition-and-the-mxne-template-is-ready, asic-tokenization-consultation-is-the-cnbv-moat-playbook-and-the-window-is-open-now, asx-chess-blockchain-failure-means-australia-custody-answer-is-broker-dealers-not-the-csd
 - Notes: Avoided restating the existing finding about AAA CGS as credit anchor for the Stablebond index. Focused on three operationally distinct angles: stablecoin greenfield, regulatory moat replication, and custody partner identification.
 
+## [2026-07-23] Probe · autorite-des-marches-financiers
+
+- Pages produced (3): spiko-is-the-dasp-answer-the-amf-page-cannot-see, eurob-is-already-france-product-market-fit-no-oat-needed-first, maimone-plus-shinhan-deck-is-80-percent-of-an-amf-sandbox-submission
+- Notes: Focal entity is a regulator, not a commercial partner — findings focus on reducing the perceived regulatory barrier by connecting existing assets (Spiko relationship, EUROB product, compliance documentation) that the AMF page treats as unsolved.
+
+## [2026-07-23] Probe · autospend
+
+- Pages produced (4): mancio-is-a-psp-referral-channel-with-a-named-50b-lead-and-a-warm-visa-crypto-insider, tempo-stripe-exclusivity-makes-tempo-deployment-the-path-to-stripes-stablecoin-ecosystem, nigeria-stablebond-has-dual-demand-and-dual-supply-already-assembled, brazil-37m-vasp-floor-is-a-tesouro-moat-but-binance-yield-brl-stablecoin-is-a-direct-threat
+- Notes: Autospend itself is an empty Wishlist lead with no engagement; all synthesis value came from the surrounding neighborhood sources, particularly the Mancio transcript (unpublished PSP referral + PXP lead), Tempo's Stripe exclusivity claim, BeKey's Nigeria demand signal, and Brazil regulatory intelligence.
+
+## [2026-07-23] Probe · av-eu
+
+- Pages produced (3): maimone-vetted-framework-plus-resolution-561-is-a-timed-brazilian-distribution-play, ibt-tap-issuance-is-the-replicable-supply-fix-for-every-frontier-stablebond-market, eurob-only-pitches-leave-6x-partner-revenue-on-the-table
+- Notes: AV.eu itself is a thin, low-trust lead; the value in this neighborhood comes from the dense BD/product sources surrounding it. Focused on cross-source connections that no single page states: (1) Maimone legal framework meets Brazil's Resolution 561 deadline, (2) IBT's tap-issuance model as a reusable template, (3) yield-tier revenue economics misaligned with EUROB-only pitches.
+
