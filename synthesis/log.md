@@ -649,3 +649,18 @@ Chronological record of synthesis runs.
 - Pages produced (3): maimone-vetted-framework-plus-resolution-561-is-a-timed-brazilian-distribution-play, ibt-tap-issuance-is-the-replicable-supply-fix-for-every-frontier-stablebond-market, eurob-only-pitches-leave-6x-partner-revenue-on-the-table
 - Notes: AV.eu itself is a thin, low-trust lead; the value in this neighborhood comes from the dense BD/product sources surrounding it. Focused on cross-source connections that no single page states: (1) Maimone legal framework meets Brazil's Resolution 561 deadline, (2) IBT's tap-issuance model as a reusable template, (3) yield-tier revenue economics misaligned with EUROB-only pitches.
 
+## [2026-07-24] Probe · ava-labs
+
+- Pages produced (1): ethena-is-the-avalanche-deals-unengaged-anchor-and-its-supply-crash-is-the-pitch
+- Notes: The Ava Labs and Avalanche wiki pages are near-duplicates (Ava Labs has the June 23 data; Avalanche only has March 24) — a data quality issue worth consolidating but not a synthesis finding.
+
+## [2026-07-24] Probe · avalabs
+
+- Pages produced (2): avalanche-argentina-intros-are-the-custody-key-for-q4-ars-stablebond, cross-chain-security-writeup-is-a-pipeline-wide-blocker-not-just-an-avalanche-deliverable
+- Notes: Neighborhood is Avalabs-centric. Most Avalanche-specific angles (Agora, foundation treasury) are covered by existing findings. The two genuinely new connections are: (1) the Argentina custody gap solvable via Leandro's banking intros, and (2) the missing cross-chain security document blocking multiple institutional deals.
+
+## [2026-07-24] Probe · avalanche
+
+- Pages produced (2): brale-already-supports-avalanche-deploy-mxne-to-unblock-the-1m-trigger, nic-nbk-counterparty-risk-qa-is-ready-ammunition-for-avalanche-risk-review
+- Notes: Focused on actionable unblocking plays for the stalled Avalanche deal. The Brale-Avalanche chain support is the strongest non-obvious connection — it's documented in one source but completely absent from the Avalanche wiki page.
+

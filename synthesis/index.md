@@ -108,6 +108,7 @@
 - [Atfx Is A Margin Collateral Play Not An Fx Collaboration](atfx-is-a-margin-collateral-play-not-an-fx-collaboration.md)
 - [Australia Has Fewer Launch Barriers Than Actively Pursued Frontier Markets](australia-has-fewer-launch-barriers-than-actively-pursued-frontier-markets.md)
 - [Australia Is The Only Aaa Market With Zero Aud Stablecoin Competition And The Mxne Template Is Ready](australia-is-the-only-aaa-market-with-zero-aud-stablecoin-competition-and-the-mxne-template-is-ready.md)
+- [Avalanche Argentina Intros Are The Custody Key For Q4 Ars Stablebond](avalanche-argentina-intros-are-the-custody-key-for-q4-ars-stablebond.md)
 - [Bareksa Is The Ready Made Indsun Distributor Hiding In Aftechs Membership](bareksa-is-the-ready-made-indsun-distributor-hiding-in-aftechs-membership.md)
 - [Bbva Convert Custodian Before Ave Bill](bbva-convert-custodian-before-ave-bill.md)
 - [Bbva Foreign Isin Registration Is The Offshore Backing For Abounds Inr Product](bbva-foreign-isin-registration-is-the-offshore-backing-for-abounds-inr-product.md)
@@ -116,6 +117,7 @@
 - [Bermuda Is Default Whitelabel Stablecoin Issuance Hub](bermuda-is-default-whitelabel-stablecoin-issuance-hub.md)
 - [Bolivia Three Inbounds Missing From Bond Roadmap](bolivia-three-inbounds-missing-from-bond-roadmap.md)
 - [Bolivia Triple Stacked Demand With Airtm Already Live Is The Clearest Unroadmapped Market](bolivia-triple-stacked-demand-with-airtm-already-live-is-the-clearest-unroadmapped-market.md)
+- [Brale Already Supports Avalanche Deploy Mxne To Unblock The 1M Trigger](brale-already-supports-avalanche-deploy-mxne-to-unblock-the-1m-trigger.md)
 - [Brazil 37M Vasp Floor Is A Tesouro Moat But Binance Yield Brl Stablecoin Is A Direct Threat](brazil-37m-vasp-floor-is-a-tesouro-moat-but-binance-yield-brl-stablecoin-is-a-direct-threat.md)
 - [Brazil Vasp Capital Floor Is An Etherfuse Distribution Funnel](brazil-vasp-capital-floor-is-an-etherfuse-distribution-funnel.md)
 - [Brle Sovereign Coin Is Named Demand Clone The Mxne Model On Tesouro](brle-sovereign-coin-is-named-demand-clone-the-mxne-model-on-tesouro.md)
@@ -136,8 +138,10 @@
 - [Colombia Is An Unbuilt Market With Stacked Partner Demand](colombia-is-an-unbuilt-market-with-stacked-partner-demand.md)
 - [Compass Labs Is The Partner Onboarding Nic Into Etherfuse](compass-labs-is-the-partner-onboarding-nic-into-etherfuse.md)
 - [Corridor Treasury Product Decoupled From Bond Roadmap](corridor-treasury-product-decoupled-from-bond-roadmap.md)
+- [Cross Chain Security Writeup Is A Pipeline Wide Blocker Not Just An Avalanche Deliverable](cross-chain-security-writeup-is-a-pipeline-wide-blocker-not-just-an-avalanche-deliverable.md)
 - [Defi Composability Vs Insurability Tension](defi-composability-vs-insurability-tension.md)
 - [Does Etherfuses Own Brazil Channel Trip The R37M Floor](does-etherfuses-own-brazil-channel-trip-the-r37m-floor.md)
+- [Ethena Is The Avalanche Deals Unengaged Anchor And Its Supply Crash Is The Pitch](ethena-is-the-avalanche-deals-unengaged-anchor-and-its-supply-crash-is-the-pitch.md)
 - [Etherfuse Backend Liquidity Stablecoin Closes The Defi Gap](etherfuse-backend-liquidity-stablecoin-closes-the-defi-gap.md)
 - [Etherfuse Is Sitting On 3M Of Foundation Grant Allocation As An Untapped Conversion Engine](etherfuse-is-sitting-on-3m-of-foundation-grant-allocation-as-an-untapped-conversion-engine.md)
 - [Etherfuse Is The Collateral Backend For A Fragmenting Consortium Of Partner Stablecoins](etherfuse-is-the-collateral-backend-for-a-fragmenting-consortium-of-partner-stablecoins.md)
@@ -182,6 +186,7 @@
 - [Monad Foundation Is Quietly Sourcing Etherfuses Emerging Market Deals](monad-foundation-is-quietly-sourcing-etherfuses-emerging-market-deals.md)
 - [Monad Foundations Real Value Is Deal Flow Not Grants](monad-foundations-real-value-is-deal-flow-not-grants.md)
 - [Moneygram Spans Etherfuses Two Deepest Moats Mexico And Kazakhstan](moneygram-spans-etherfuses-two-deepest-moats-mexico-and-kazakhstan.md)
+- [Nic Nbk Counterparty Risk Qa Is Ready Ammunition For Avalanche Risk Review](nic-nbk-counterparty-risk-qa-is-ready-ammunition-for-avalanche-risk-review.md)
 - [Nigeria Cngn Is A Repeated Inbound Demand With A Warm Intro Waiting](nigeria-cngn-is-a-repeated-inbound-demand-with-a-warm-intro-waiting.md)
 - [Nigeria Has A Warm Intro And 26M Users But No Ngn Stablebond](nigeria-has-a-warm-intro-and-26m-users-but-no-ngn-stablebond.md)
 - [Nigeria Has Stacked Demand And A Rare Regulated Rail But No Ngn Product](nigeria-has-stacked-demand-and-a-rare-regulated-rail-but-no-ngn-product.md)
@@ -220,5 +225,5 @@
 - [Western Union Usdpt Mxn Offramp Is The Whale In The Anchorage One Pager](western-union-usdpt-mxn-offramp-is-the-whale-in-the-anchorage-one-pager.md)
 
 ---
-*Last synthesized: 2026-07-23*
+*Last synthesized: 2026-07-24*
 
